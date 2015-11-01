@@ -151,6 +151,44 @@ Many of these also have patterns, vectors, etc.
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [Using White Space For Readability In HTML And CSS](http://www.smashingmagazine.com/2013/02/19/using-white-space-for-readability-in-html-and-css/)
 
+## IDEs, Text Editors, and Code Editors
+
+* [Aptana](http://www.aptana.com/) Build web applications quickly and easily using the industry’s leading web application IDE. Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
+* [Atom](https://atom.io/) Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file
+* [Brackets](http://brackets.io/) A modern, open source text editor that understands web design
+* [Coda](http://www.panic.com/coda/) (Mac only) You code for the web. You demand a fast, clean, and powerful text editor. Pixel-perfect preview. A built-in way to open and manage your local and remote files. And maybe a dash of SSH. Say hello, Coda.
+* [Eclipse](http://www.eclipse.org/) Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too
+* [Komodo IDE](http://komodoide.com/) Cross-Platform IDE for all your major languages, including Python, PHP, Go, Perl, Tcl, Ruby, NodeJS, HTML, CSS, JavaScript and more
+* [NetBeans IDE](https://netbeans.org/) Quickly and easily develop desktop, mobile and web applications
+with Java, HTML5, PHP, C/C++ and more
+* [Sublime Text](http://www.sublimetext.com/) Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing performance.
+* [TextMate](https://macromates.com/) TextMate brings Apple's approach to operating systems into the world of text editors. By bridging UNIX underpinnings and GUI, TextMate cherry-picks the best of both worlds to the benefit of expert scripters and novice users alike.
+
+### Recommended Add-Ons
+
+#### Cross-Platform
+
+* [Emmet](http://docs.emmet.io/) Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow
+
+#### Brackets
+
+* [Beautify](https://github.com/drewhamlett/brackets-beautify) Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
+* [Brackets-SASS](https://github.com/jasonsanjose/brackets-sass) Enable Live Preview and compile SASS files within Brackets
+* [Brackets SASS Code Hints](https://github.com/sprintr/brackets-sass-code-hints) An extension for Brackets that provides code hints for SASS documents
+* [Emmet](https://github.com/emmetio/brackets-emmet) Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow
+* [SASShints](https://github.com/konstantinkobs/brackets-SASShints) Autocompletion for SASS/SCSS variables in Brackets
+
+#### Sublime Text
+
+* [ColorPicker](http://weslly.github.io/ColorPicker/) No more opening Photoshop or your document inspector to get a color picker; this one lives right inside Sublime Text
+* [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify) HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) Preview and build your markdown files quickly in your web browser from sublime text 2/3
+* [Package Control](https://packagecontrol.io/) The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date
+* [Spacegray](http://kkga.github.io/spacegray/) A Hyperminimal UI Theme for Sublime Text
+* [SublimeLinter](http://www.sublimelinter.com/en/latest/) SublimeLinter is a plugin for Sublime Text 3 that provides a framework for linting (finding errors in) code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. 
+* [Trimmer](https://github.com/jonlabelle/Trimmer) Trimmer is a Sublime Text plug-in for cleaning up whitespace
+
 ## CSS
 
 ### General Help
