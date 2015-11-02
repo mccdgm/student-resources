@@ -157,6 +157,7 @@ Many of these also have patterns, vectors, etc.
 * [Atom](https://atom.io/) Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file
 * [Brackets](http://brackets.io/) A modern, open source text editor that understands web design
 * [Coda](http://www.panic.com/coda/) (Mac only) You code for the web. You demand a fast, clean, and powerful text editor. Pixel-perfect preview. A built-in way to open and manage your local and remote files. And maybe a dash of SSH. Say hello, Coda.
+* [CodeKit](http://incident57.com/codekit/) CodeKit compiles Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript, TypeScript, Markdown and Compass files automatically each time you save. Easily set options for each language on a file-by-file basis.
 * [Eclipse](http://www.eclipse.org/) Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too
 * [Komodo IDE](http://komodoide.com/) Cross-Platform IDE for all your major languages, including Python, PHP, Go, Perl, Tcl, Ruby, NodeJS, HTML, CSS, JavaScript and more
 * [NetBeans IDE](https://netbeans.org/) Quickly and easily develop desktop, mobile and web applications
@@ -259,8 +260,37 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 * [Pleeease Play](http://pleeease.io/play/) Autoprefix your CSS online
 * [PurifyCSS](https://www.reddit.com/r/web_design/comments/3alq1t/purifycss_remove_unused_css/) Remove unused CSS selectors
+
+#### Preprocessors
+
+The "big three" are Less, Sass, and Stylus, but you have options!
+
+* [Clay](http://learnboost.github.io/stylus/) Clay is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell. This means that all CSS selectors and style rules are first class Haskell functions, which makes reuse and composability easy.
+* [CSS-Crush](http://the-echoplex.net/csscrush/) A standards-inspired CSS preprocessor
+* [Less](http://lesscss.org/) Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable
+* [Myth](http://www.myth.io/) Myth is a preprocessor that lets you write pure CSS without having to worry about slow browser support, or even slow spec approval. It's like a CSS polyfill.
+* [Rework](https://github.com/reworkcss/rework) Plugin framework for CSS preprocessing in Node.js
+* [Sass](http://sass-lang.com/) Sass is the most mature, stable, and powerful professional grade CSS extension language in the world
+* [Stylus](http://learnboost.github.io/stylus/)
+
+#### SASS/SCSS
+
+* [25 Essential Sass and Compass Tools](http://mashable.com/2013/06/11/sass-compass-tools/#iDWcmxN9Q5qx)
+* [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
+* [SassMe](http://sassme.arc90.com/) Visualize SASS color functions in real-time without compiling
 * [Sassmeister](http://sassmeister.com/) Compile your SCSS/SASS online
 * [Simplify your Mobile Development with this SASS Mixin](http://teeohhem.com/simplify-your-mobile-breakpoints-with-this-sass-mixin/)
+* [Using Sass functions to access variable maps](http://codepen.io/jakealbaugh/post/using-sass-functions-to-access-complex-variable-maps)
+
+##### Add-Ons and Related Projects
+
+These are all tools that make your Sass more efficient. Sass is also the magic behind the framework [Foundation](http://foundation.zurb.com/) and [Bootstrap 4 Alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/).
+
+* [Bourbon](http://bourbon.io/) Bourbon is a lightweight Sass tool set that helps you write more effective stylesheets
+* [Bourbon Bitters](http://bitters.bourbon.io/) Bitters helps designers start projects faster by defining a basic set of Sass variables, default element style and project structure
+* [Bourbon Neat](http://neat.bourbon.io/) A lightweight semantic grid framework for Sass and Bourbon
+* [Bourbon Refills](http://refills.bourbon.io/) Components and patterns built with Bourbon and Neat
+* [Compass](http://compass-style.org/) Compass is an open-source CSS Authoring Framework
 
 ### Special Effects
 
