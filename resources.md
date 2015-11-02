@@ -273,9 +273,10 @@ The "big three" are Less, Sass, and Stylus, but you have options!
 * [Sass](http://sass-lang.com/) Sass is the most mature, stable, and powerful professional grade CSS extension language in the world
 * [Stylus](http://learnboost.github.io/stylus/)
 
-#### SASS/SCSS
+#### Sass/SCSS
 
 * [25 Essential Sass and Compass Tools](http://mashable.com/2013/06/11/sass-compass-tools/#iDWcmxN9Q5qx)
+* [A visual guide to Sass & Compass Color Functions](http://jackiebalzer.com/color) Sass and Compass provide a number of useful functions you can use to alter and manipulate colors with ease. Most color functions operate on a single color, but some can be used to combine two colors in different ways.
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassMe](http://sassme.arc90.com/) Visualize SASS color functions in real-time without compiling
 * [Sassmeister](http://sassmeister.com/) Compile your SCSS/SASS online
