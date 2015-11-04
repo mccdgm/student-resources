@@ -358,7 +358,10 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 #### Individual Plugin Recommendations
 
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) Customise WordPress with powerful, professional and intuitive fields
+* [Advanced Excerpt](https://wordpress.org/plugins/advanced-excerpt/) Control the appearance of WordPress post excerpts (for instance, allowing HTML)
+* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by [Noël Jackson](http://noel.io); allows per-page and per-post custom CSS and JS
 * [Clef Two-Factor Authentication](https://wordpress.org/plugins/wpclef/) Modern two-factor that people love to use: strong authentication without passwords or tokens; single sign on/off; magical user experience
+* [Code Markup](https://wordpress.org/plugins/code-markup/) Code Markup is a WordPress plugin that makes it easy to include program code samples in your posts. You can even include HTML markup in the code sample; Code Markup magically knows which characters should be displayed as code and which should be rendered as HTML.
 * [Comment Blacklist Manager]() Checks if the master list in [Comment Blacklist for WordPress](https://github.com/splorp/wordpress-comment-blacklist) has updated and updates the `blacklist_keys` setting in WordPress
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Just another contact form plugin. Simple but flexible.
 * [Content Aware Sidebars](https://wordpress.org/plugins/content-aware-sidebars/) Create and display custom sidebars according to the content being viewed.
@@ -372,6 +375,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 * [Imsanity](https://wordpress.org/plugins/imsanity/) Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue!
 * [Jetpack](https://wordpress.org/plugins/jetpack/) Jetpack adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools
 * [Maps Builder - Google Maps Plugin](https://wordpress.org/plugins/google-maps-builder/) Visually build powerful customized Google Maps to use on your WordPress site quickly and easily without ever having to touch a bit of code.
+* [oEmbed in Comments](https://wordpress.org/plugins/oembed-in-comments/) oEmbed is an easy way to embed media. It turns links into embedded content automatically. WordPress has supported it in posts for a while, but not in comments. This plugin uses the oEmbed support already in WordPress and adds it to comments.
 * [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder
 * [PayPal for WooCommerce](https://wordpress.org/plugins/paypal-for-woocommerce/)
 * [Related Posts for WordPress](https://wordpress.org/plugins/related-posts-for-wp/) Display related posts without slowing down your website! Link all your existing content with only 1 click, get related posts for all your posts today!
@@ -384,6 +388,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) This plugin works by including all available image sizes for each image upload. Whenever WordPress outputs the image through the media uploader, or whenever a featured image is generated, those sizes will be included in the image tag via the srcset attribute.
 * [WP Help](https://wordpress.org/plugins/wp-help/) Site operators can create detailed, hierarchical documentation for the site's authors, editors, and contributors, viewable in the WordPress admin
 * [WP-Members: Membership Framework](https://wordpress.org/plugins/wp-members/) WP-Members™ is a membership plugin for WordPress®. Perfect for newsletters, premium content sites, and more! The plugin restricts selected WordPress® content to registered site members.
+* [WP-Polls](https://wordpress.org/plugins/wp-polls/) Adds an AJAX poll system to your WordPress blog. You can also easily add a poll into your WordPress's blog post/page.
 * [YITH WooCommerce Advanced Reviews](https://wordpress.org/plugins/yith-woocommerce-advanced-reviews/) Extends the basic functionality of woocommerce reviews and add a histogram table to the reviews of your products
 * [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/) Compare more products of your shop in one complete table
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) A premium version is also available
