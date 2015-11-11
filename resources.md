@@ -91,6 +91,7 @@ Many of these also have patterns, vectors, etc.
 * [12 Incredible Resources for Downloading Icon Packs](https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs) A mix of paid and free
 * [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 * [GlyphSearch is your free Icon Search Engine](http://glyphsearch.com/)
+* [The Noun Project](https://thenounproject.com/) Free with attribution; icons are also available in a subscription or with per-icon payment. Huge selection of styles!
 
 ### Video
 
