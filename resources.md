@@ -131,6 +131,7 @@ Many of these also have patterns, vectors, etc.
 
 ### General
 
+* [Cadence & Slang (book)](http://cadence.cc/) The fastest way to understand interaction design, now in its second edition
 * [Design Patterns: You Already Know How To Use It](http://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/) “It’s crazy powerful. It’s magical. You already know how to use it.” This was an astonishing claim. Here was a new, market-defining, revolutionary device, unlike anything we had seen before, and we already knew how to use it. And yet, for the most part, the claim was true. How does a company like Apple make such great new things that people already know how to use?
 * [The 8 Worst UX Mistakes Coming From Experts](https://medium.com/@pkkoczorowski/the-8-worst-ux-mistakes-coming-from-experts-692884971f80)
 
@@ -358,41 +359,128 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 #### Individual Plugin Recommendations
 
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) Customise WordPress with powerful, professional and intuitive fields
-* [Advanced Excerpt](https://wordpress.org/plugins/advanced-excerpt/) Control the appearance of WordPress post excerpts (for instance, allowing HTML)
-* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by [Noël Jackson](http://noel.io); allows per-page and per-post custom CSS and JS
-* [Clef Two-Factor Authentication](https://wordpress.org/plugins/wpclef/) Modern two-factor that people love to use: strong authentication without passwords or tokens; single sign on/off; magical user experience
-* [Code Markup](https://wordpress.org/plugins/code-markup/) Code Markup is a WordPress plugin that makes it easy to include program code samples in your posts. You can even include HTML markup in the code sample; Code Markup magically knows which characters should be displayed as code and which should be rendered as HTML.
-* [Comment Blacklist Manager]() Checks if the master list in [Comment Blacklist for WordPress](https://github.com/splorp/wordpress-comment-blacklist) has updated and updates the `blacklist_keys` setting in WordPress
-* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Just another contact form plugin. Simple but flexible.
-* [Content Aware Sidebars](https://wordpress.org/plugins/content-aware-sidebars/) Create and display custom sidebars according to the content being viewed.
-* [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) This plugin allows you to clone a post/page or edit it as a new draft
-* [Event Organiser](https://wordpress.org/plugins/event-organiser/) Create and maintain events, including complex reoccurring patterns, venue management (with Google maps), calendars and customisable event lists
-* [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery and more using lossless/lossy methods and image format conversion
-* [Free Google Webfonts plugin for WordPress](http://www.webdesignerdepot.com/2013/07/free-google-webfonts-plugin-for-wordpress/)
-* [Genesis Connect for WooCommerce](https://wordpress.org/plugins/genesis-connect-woocommerce/) Integrate WooCommerce with Genesis-based themes
+##### Administration
+
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) Displays Google Analytics reports in your WordPress Dashboard and inserts the latest Google Analytics tracking code in your pages
-* [Gravity Forms](http://www.gravityforms.com/) Build complex, powerful contact forms in just minutes, no programming knowledge required
-* [Imsanity](https://wordpress.org/plugins/imsanity/) Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue!
-* [Jetpack](https://wordpress.org/plugins/jetpack/) Jetpack adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools
-* [Maps Builder - Google Maps Plugin](https://wordpress.org/plugins/google-maps-builder/) Visually build powerful customized Google Maps to use on your WordPress site quickly and easily without ever having to touch a bit of code.
+* [WP Help](https://wordpress.org/plugins/wp-help/) Site operators can create detailed, hierarchical documentation for the site's authors, editors, and contributors, viewable in the WordPress admin
+
+##### Communications
+
+* [Comment Blacklist Manager]() Checks if the master list in [Comment Blacklist for WordPress](https://github.com/splorp/wordpress-comment-blacklist) has updated and updates the `blacklist_keys` setting in WordPress
 * [oEmbed in Comments](https://wordpress.org/plugins/oembed-in-comments/) oEmbed is an easy way to embed media. It turns links into embedded content automatically. WordPress has supported it in posts for a while, but not in comments. This plugin uses the oEmbed support already in WordPress and adds it to comments.
-* [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder
-* [PayPal for WooCommerce](https://wordpress.org/plugins/paypal-for-woocommerce/)
+
+##### Development
+
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) Customise WordPress with powerful, professional and intuitive fields
+* [CMB2](https://wordpress.org/plugins/cmb2/) CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind
+* [Content Aware Sidebars](https://wordpress.org/plugins/content-aware-sidebars/) Create and display custom sidebars according to the content being viewed
+* [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) Custom Post Type Permalinks lets you edit the permalink structure of custom post type
+* [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content
+* [Debug Bar](http://wordpress.org/plugins/debug-bar/) Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information
+* [FakerPress](https://wordpress.org/plugins/fakerpress/) FakerPress is a clean way to generate fake and dummy content to your WordPress, great for developers who need testing 
+* [GenerateWP](http://generatewp.com/) The easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and APIs
+* [GitHub Updater](https://github.com/afragen/github-updater) A simple plugin to enable automatic updates to your GitHub, Bitbucket, or GitLab hosted WordPress plugins and themes. It also allows for the remote installation of plugins or themes.
+* [Members](https://wordpress.org/plugins/members/) Members is a plugin that extends your control over your blog. It's a user, role, and content management plugin that was created to make WordPress a more powerful CMS.
+* [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) Efficient many-to-many connections between posts, pages, custom post types, users. 
 * [Related Posts for WordPress](https://wordpress.org/plugins/related-posts-for-wp/) Display related posts without slowing down your website! Link all your existing content with only 1 click, get related posts for all your posts today!
-* [Restrict Content Pro](http://restrictcontentpro.com/) Lock away your exclusive content. Give access to valued members.
-* [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/)
+* [Revisr](https://wordpress.org/plugins/revisr/) Revisr allows you to manage your WordPress website with a Git repository. A must-have plugin for deploying and managing WordPress using Git repositories.
+* [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/) A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorites they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
+* [Ship](http://ship.getherbert.com/) Tag a release on GitHub and have it automatically shipped to the official WordPress.org plugin SVN
+* [Shortcake](https://wordpress.org/plugins/shortcode-ui/) Used alongside add_shortcode, Shortcake supplies a user-friendly interface for adding a shortcode to a post, and viewing and editing it from within the content editor
+* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page
+* [TGM Plugin Activation](tgmpluginactivation.com/) TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
+* [Theme Check](https://wordpress.org/plugins/theme-check/) The theme check plugin is an easy way to test your theme and make sure it's up to spec with the latest theme review standards. With it, you can run all the same automated testing tools on your theme that WordPress.org uses for theme submissions.
+* [WP Quick Install](http://wp-quick-install.com/) WordPress installation could be long: downloading, decompressing, uploading, plugins and themes installation. WP Quick Install will take care all of this things. Simply upload this tiny script where you want to install WordPress.
+* [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) Rollback (or forward) any WordPress.org plugin or theme like a boss
+* [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker)  A custom WordPress nav walker class to fully implement the Twitter Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager
+* [WP-CLI](http://wp-cli.org/) WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
+* [wp-custom-post-type-class](https://github.com/jjgrainger/wp-custom-post-type-class) A PHP Class for creating Wordpress Custom Post Types easily 
+* [WP-Optimize](https://it.wordpress.org/plugins/wp-optimize/) Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries
+* [WPScan](http://wpscan.org/) WPScan is a black box WordPress vulnerability scanner
+The foundation of the plugin is its extensive role and capability management system. This is the backbone of all the current features and planned future features.
+
+###### Migration
+
+* [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) The plugin allows you to export your database, media files, plugins, and themes. You can apply unlimited find/replace operations on your database and the plugin will also fix any serialization problems that occur during find/replace operations.
+* [BackWPup](https://wordpress.org/plugins/backwpup/) The backup plugin BackWPup Free can be used to save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more, see list below. With a single backup .zip file you are able to easily restore an installation.
+* [Duplicator](https://wordpress.org/plugins/duplicator/) Duplicate, clone, backup, move and transfer an entire site from one location to another
+* [MultiSite Clone Duplicator](https://it.wordpress.org/plugins/multisite-clone-duplicator/) MultiSite Clone Duplicator adds a "Duplicate Site" functionality to your network installation. It allows you to clone any site of your network into a new one : all data, files, users and roles can be copied.
+* [UpdraftPlus Backup and Restoration](https://wordpress.org/plugins/updraftplus/) UpdraftPlus simplifies backups (and restoration). Backup into the cloud (Amazon S3 (or compatible), Dropbox, Google Drive, Rackspace Cloud, DreamObjects, FTP, Openstack Swift, UpdraftPlus Vault and email) and restore with a single click. Backups of files and database can have separate schedules. 
+
+###### Forms
+
+* [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Just another contact form plugin. Simple but flexible.
+* [Gravity Forms](http://www.gravityforms.com/) Build complex, powerful contact forms in just minutes, no programming knowledge required
+* [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/) Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
+
+##### Ecommerce
+
+* [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) Easy Digital Downloads is a complete e-commerce solution for selling digital products in a light, performant, and easy to use plugin. Rather that attempting to provide every feature under the sun, Easy Digital Downloads makes selling digital simple and complete by providing just the features you need.
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/) This plugin works by including all available image sizes for each image upload. Whenever WordPress outputs the image through the media uploader, or whenever a featured image is generated, those sizes will be included in the image tag via the srcset attribute.
+
+###### WooCommerce Add-Ons
+
+* [Genesis Connect for WooCommerce](https://wordpress.org/plugins/genesis-connect-woocommerce/) Integrate WooCommerce with Genesis-based themes
+* [PayPal for WooCommerce](https://wordpress.org/plugins/paypal-for-woocommerce/)
 * [Stripe Payment Gateway WooCommerce Addon](https://wordpress.org/plugins/stripe-woocommerce-addon/)
-* [VaultPress](https://vaultpress.com/) Backups & security for your WordPress site.
 * [WooCommerce - Store Toolkit](https://wordpress.org/plugins/woocommerce-store-toolkit/)
 * [WooCommerce Customizer](https://wordpress.org/plugins/woocommerce-customizer/) Helps you customize WooCommerce without writing any code
-* [WooCommerce](https://wordpress.org/plugins/woocommerce/) This plugin works by including all available image sizes for each image upload. Whenever WordPress outputs the image through the media uploader, or whenever a featured image is generated, those sizes will be included in the image tag via the srcset attribute.
-* [WP Help](https://wordpress.org/plugins/wp-help/) Site operators can create detailed, hierarchical documentation for the site's authors, editors, and contributors, viewable in the WordPress admin
-* [WP-Members: Membership Framework](https://wordpress.org/plugins/wp-members/) WP-Members™ is a membership plugin for WordPress®. Perfect for newsletters, premium content sites, and more! The plugin restricts selected WordPress® content to registered site members.
-* [WP-Polls](https://wordpress.org/plugins/wp-polls/) Adds an AJAX poll system to your WordPress blog. You can also easily add a poll into your WordPress's blog post/page.
 * [YITH WooCommerce Advanced Reviews](https://wordpress.org/plugins/yith-woocommerce-advanced-reviews/) Extends the basic functionality of woocommerce reviews and add a histogram table to the reviews of your products
 * [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/) Compare more products of your shop in one complete table
-* [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) A premium version is also available
+
+##### Images
+
+* [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) Enables replacing attachment files by simply uploading a new file in the media library edit view
+* [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) A better management for WordPress Media Library 
+* [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery and more using lossless/lossy methods and image format conversion
+* [Imsanity](https://wordpress.org/plugins/imsanity/) Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue!
+* [Multi Image Control](https://github.com/lucatume/multi-image-control) A Theme customizer control allowing selection and sorting of multiple images
+* [Multiple Post Thumbnails](https://wordpress.org/plugins/multiple-post-thumbnails/) Adds multiple post thumbnails to a post type. If you've ever wanted more than one Featured Image on a post, this plugin is for you. 
+* [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) Regenerate Thumbnails allows you to regenerate the thumbnails for your image attachments. This is very handy if you've changed any of your thumbnail dimensions (via Settings -> Media) after previously uploading images or have changed to a theme with different featured post image dimensions.
+* [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
+* [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/)
+
+##### Posts & Pages
+Easier management of regular WordPress posts, custom post types, and pages
+
+* [Advanced Excerpt](https://wordpress.org/plugins/advanced-excerpt/) Control the appearance of WordPress post excerpts (for instance, allowing HTML)
+* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by [Noël Jackson](http://noel.io); allows per-page and per-post custom CSS and JS
+* [Code Markup](https://wordpress.org/plugins/code-markup/) Code Markup is a WordPress plugin that makes it easy to include program code samples in your posts. You can even include HTML markup in the code sample; Code Markup magically knows which characters should be displayed as code and which should be rendered as HTML.
+* [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) This plugin allows you to clone a post/page or edit it as a new draft
+* [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder
+
+###### Content Restriction
+
+* [Restrict Content Pro](http://restrictcontentpro.com/) Lock away your exclusive content. Give access to valued members.
+* [WP-Members: Membership Framework](https://wordpress.org/plugins/wp-members/) WP-Members™ is a membership plugin for WordPress®. Perfect for newsletters, premium content sites, and more! The plugin restricts selected WordPress® content to registered site members.
+
+##### Security
+
+* [Clef Two-Factor Authentication](https://wordpress.org/plugins/wpclef/) Modern two-factor that people love to use: strong authentication without passwords or tokens; single sign on/off; magical user experience
+* [VaultPress](https://vaultpress.com/) Backups & security for your WordPress site
+* [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
+* [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php)
+* [MainWP](https://mainwp.com/) Self-hosted open source manager for maintaining your WordPress sites from one location
+* [Captcha on Login](https://wordpress.org/plugins/captcha-on-login) Protect your blog from login brute force attacks adding a captcha on login page of your site 
+* [Stealth Login Page](https://www.wordpress.org/plugins/stealth-login-page/) Protect your dashboard without editing the .htaccess file -- the FIRST one that completely blocks remote bot login requests 
+* [Antispam Bee](https://wordpress.org/plugins/antispam-bee/) Say Goodbye to comment spam on your WorddPress blog or website. Antispam Bee blocks spam comments and trackbacks effectively and without captchas. It is free of charge, ad-free and compliant with European data privacy standards.
+* [Stream](https://wordpress.org/plugins/stream/) Stream is the easiest and safest way to track content changes happening to your WordPress site and then view them in beautifully organized detail
+* [Simple Login Log](https://wordpress.org/plugins/simple-login-log/) This plugin keeps a log of WordPress user logins. Offers user and date filtering, and export features. 
+
+##### SEO
+
+* [Redirection](https://wordpress.org/plugins/redirection/) Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files 
+* [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin; free and premium versions available
+* [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) This plugin will monitor your blog looking for broken links and let you know if any are found
+
+##### Uncategorized
+
+* [Event Organiser](https://wordpress.org/plugins/event-organiser/) Create and maintain events, including complex reoccurring patterns, venue management (with Google maps), calendars and customisable event lists
+* [Free Google Webfonts plugin for WordPress](http://www.webdesignerdepot.com/2013/07/free-google-webfonts-plugin-for-wordpress/)
+* [Jetpack](https://wordpress.org/plugins/jetpack/) Jetpack adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools
+* [Maps Builder - Google Maps Plugin](https://wordpress.org/plugins/google-maps-builder/) Visually build powerful customized Google Maps to use on your WordPress site quickly and easily without ever having to touch a bit of code.
+* [WP-Polls](https://wordpress.org/plugins/wp-polls/) Adds an AJAX poll system to your WordPress blog. You can also easily add a poll into your WordPress's blog post/page.
 
 ### Themes and Development
 
@@ -425,14 +513,23 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 * [_s (Underscores)](http://underscores.me/) Underscores comes from the combined experience of building themes for millions of users on WordPress.com, and creating default themes that ship with WordPress and have to work in all environments. This is paired with excellence in theming best practices and just enough functionality, markup, and styles to get started.
 * [Bones](http://themble.com/bones/) An HTML5, Mobile-First starter theme for rapid WordPress development
+* [HTML5 Blank](http://html5blank.com/) The HTML5 WordPress boilerplate theme.
 * [Joints](http://jointswp.com/) JointsWP is a blank WordPress theme built with Foundation, giving you all the power and flexibility you need to build complex, mobile friendly websites without having to start from scratch
+* [Odin WP](http://wpod.in/) Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress
 * [Sage](https://roots.io/sage/) Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, that will help you make better themes
+* [Sprig](http://sprigwp.com/) Build WordPress themes quickly with Twig
+* [WordPlate](https://github.com/wordplate/wordplate) A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
 * [WP-Flex](https://github.com/grayghostvisuals/WP-Flex) A responsive, foundational WordPress theme boilerplate that adheres to best practices and requirements set by the official WordPress Codex and theme review guidelines
 
 ##### Frameworks
 
 * [Base](https://graphpaperpress.com/themes/base/) Base is a minimally-styled, feature rich, theme framework built specifically to power child themes. It includes an application framework, a theme options framework and a robust set of options for customizing your site.
+* [CherryFramework](https://github.com/CherryFramework/CherryFramework) Fully responsive design, easy install, steady updates, great number of shortcodes and widgets, integration of Bootstrap functions. All brought to you by Cherry Framework for straightforward experience in website design
+* [Gantry Framework](https://github.com/gantry/gantry5) Next Generation Theme Framework. Gantry was born when the RocketTheme development team wanted to consolidate our extensive set of custom Joomla and WordPress template functionality into a simple, easy to use framework
 * [Genesis](http://my.studiopress.com/themes/genesis/) The Genesis Framework empowers you to quickly and easily build incredible websites with WordPress
+* [Kirki](http://kirki.org/) Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
+* [Runway Framework](https://github.com/parallelus/Runway-Framework) A better way to create WordPress themes. Runway was built for creating WordPress themes and it encompasses both of the classic meanings of "theme framework" as defined by the WordPress developers. But Runway is much more than just a theme framework, Runway is a Theme Development Environment.
+* [WP MVC](http://wpmvc.org/) WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 
 #### Identifying Themes
 
@@ -443,10 +540,12 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 * [Evaluating responsive WordPress themes](https://thethemefoundry.com/blog/responsive-wordpress-themes/)
 * [What To Consider When Choosing A WordPress Theme](http://www.smashingmagazine.com/2014/12/what-to-consider-when-choosing-a-wordpress-theme/)
+* [Are You Getting Cheated When Buying A WordPress Theme?](http://www.smashingmagazine.com/2015/11/ripped-off-buying-wordpress-themes/) The theme we started out with seemed very good, offering speeds that were quite good, especially for a news website or portal. We tested the theme with demo content; however, regardless of how hard we tried, speeds and scores never reached those on the vendor’s website. This led us to believe that theme vendors sometimes set up demos to make their websites appear faster than they really are. So, the question is, when we shop for a theme, do we get what’s on the tin?
 
 ##### Customizing Themes
 
 * [How to Customize WordPress Themes](http://www.siteground.com/tutorials/wordpress/customize-theme.htm)
+* [The Customizer API](https://developer.wordpress.org/themes/advanced-topics/customizer-api/) - The Customizer is a framework for live-previewing any change to WordPress. It provides a simple and consistent interface for users to customize various aspects of their theme and their site, from colors and layouts to widgets, menus, and more. Themes and plugins alike can add custom options to the Customizer. The Customizer is the canonical way to add options to your theme.
 
 ##### Places to Buy Themes
 
@@ -476,7 +575,9 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 
 ## General
 
+* [Following the Hunch: How to Make Freelancing Into a Durable Business](http://99u.com/articles/51208/following-the-hunch-how-to-make-freelancing-into-a-durable-business) “Ideas are easy; execution is hard.” You’ve probably heard some variation of this in the past, and it’s true—but it’s also not the whole story. Executing on ideas only matters if it reflects what people actually want.
 * [Mike Monteiro: Design is a Job (book)](http://abookapart.com/products/design-is-a-job)
+* [Product-wise consulting for freelancers](https://creativeclass.io/productwise-consulting/) One question I get a lot: I’m just starting out and I want to create a productized consulting service. What should I do? Let’s un-ask that question for a moment. Because it’s not the question you’re really asking. What you’re really asking is this: I’m just starting out and I want freelancing to be simple and easy. How can I do it?
 
 ## Communication: Getting (and keeping) Clients
 
