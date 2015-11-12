@@ -407,7 +407,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [MultiSite Clone Duplicator](https://it.wordpress.org/plugins/multisite-clone-duplicator/) MultiSite Clone Duplicator adds a "Duplicate Site" functionality to your network installation. It allows you to clone any site of your network into a new one : all data, files, users and roles can be copied.
 * [UpdraftPlus Backup and Restoration](https://wordpress.org/plugins/updraftplus/) UpdraftPlus simplifies backups (and restoration). Backup into the cloud (Amazon S3 (or compatible), Dropbox, Google Drive, Rackspace Cloud, DreamObjects, FTP, Openstack Swift, UpdraftPlus Vault and email) and restore with a single click. Backups of files and database can have separate schedules. 
 
-###### Forms
+##### Forms
 
 * [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Just another contact form plugin. Simple but flexible.
