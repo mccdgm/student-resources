@@ -590,6 +590,11 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 * [Small business owners: as a graphic designer what can I do to convince you to trust me more?](https://www.reddit.com/r/smallbusiness/comments/38b277/small_business_owners_as_a_graphic_designer_what/)
 * [The Oatmeal: How a web design goes straight to #$%&](http://theoatmeal.com/comics/design_hell) (NSFW language)
 
+### CRM and Meetings
+* [Assistant.to](http://www.assistant.to/) Book meetings with one email. No back & forth. No double bookings. And it's free!
+* [Boomerang](http://www.boomeranggmail.com/) Boomerang for Gmail lets you take control of when you send and receive email messages (with bonus reminders and mobile integration)
+* [Streak](https://www.streak.com/) Streak adds the power of a fancy CRM solution to your Gmail inbox. The free tier is enough to manage a small freelance business.
+
 ## Legalities
 
 * [How do I politely dissuade a client from using stolen fonts?](https://www.reddit.com/r/graphic_design/comments/2s32d6/how_do_i_politely_dissuade_a_client_from_using/cnm1kpe) tl;dr: people can and do get in trouble for this
