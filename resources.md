@@ -110,6 +110,16 @@ Many of these also have patterns, vectors, etc.
 * [MyFonts: Free](https://www.myfonts.com/search/tag%3Afree/fonts) Often a weight or two from a commercial family, but in a small project, that could be enough
 * [Smashing Magazine: Free Font Roundup](http://www.smashingmagazine.com/tag/free-fonts/)
 
+##### Coding/Monospace Fonts
+
+* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) Anonymous Pro (2009) is a family of four fixed-width fonts designed with coding in mind. Anonymous Pro features an international, Unicode-based character set, with support for most Western and Central European Latin-based languages, plus Greek and Cyrillic.
+* [Bitstream Vera Sans Mono](http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans-Mono)
+* [Fantasque Sans](https://github.com/belluzj/fantasque-sans) A programming font, designed with functionality in mind, and with some wibbly-wobbly handwriting-like fuzziness that makes it unassumingly cool
+* [Fira Mono](http://mozilla.github.io/Fira/) Also has a matching sans-serif
+* [Input](http://input.fontbureau.com/) Input is a flexible system of fonts designed specifically for code by David Jonathan Ross. It offers both monospaced and proportional fonts, all with a large range of widths, weights, and styles for richer code formatting.
+* [Meslo](https://github.com/andreberg/Meslo-Font) Meslo LG is a customized version of Apple’s Menlo-Regular font (which is a customized Bitstream Vera Sans Mono)
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) Adobe's monospaced font family for user interface and coding environments; also has a matching serif and sans
+
 #### Commercial
 
 * [CreativeMarket](https://creativemarket.com/fonts) CM also carries other products such as photos, mockups, and themes. They also have 6 free commercial files a week, including fonts, that you can use in your professional work. Start building your resource arsenal early!
