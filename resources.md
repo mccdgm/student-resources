@@ -147,6 +147,7 @@ Many of these also have patterns, vectors, etc.
 * [Frontify](https://frontify.com/styleguide) Create free style guides in less than 5 minutes
 * [OpenBrand](https://openbrand.com/) Unlike a simple shared drive, OpenBrand ensures everything is documented and your creative works are complete with all source files and production data.
 * [StyleGuide](http://hugeinc.github.io/styleguide/) A tool to make creating and maintaining styleguides easy.
+* [Free Resource Download: Digital Brand & UX Guideline](http://ashleymporciuncula.com/portfolio/free-resource-download-digital-brand-ux-guideline-document/) This easy-to-custom template includes pre-formatted sections for a full Digital Brand & UX guideline document
 
 ## UI/UX
 
@@ -173,6 +174,7 @@ Many of these also have patterns, vectors, etc.
 * [Draw a favicon in-browser](http://www.favicon.cc/)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [Using White Space For Readability In HTML And CSS](http://www.smashingmagazine.com/2013/02/19/using-white-space-for-readability-in-html-and-css/)
+* [The definitive list of resources & topics you'll need know](http://www.gitlogs.com/resource-guides) This list is updated in realtime and uses the Github API to find all the latest most influential resources
 
 ## IDEs, Text Editors, and Code Editors
 
@@ -221,6 +223,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * [Learn Layout](http://www.learnlayout.com/toc.html) Basic overview of positioning, clears, the box model, and more
 * [Mozilla Developer Network: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [stackoverflow: CSS](http://stackoverflow.com/questions/tagged/css)
+* [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
 
 #### Readability
 
@@ -610,11 +613,15 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 * [Mike Monteiro: You're my favorite client (book)](http://abookapart.com/products/youre-my-favorite-client)
 * [Small business owners: as a graphic designer what can I do to convince you to trust me more?](https://www.reddit.com/r/smallbusiness/comments/38b277/small_business_owners_as_a_graphic_designer_what/)
 * [The Oatmeal: How a web design goes straight to #$%&](http://theoatmeal.com/comics/design_hell) (NSFW language)
+* [reddit: How should a freelancer do "networking" at linkedIn or anywhere else properly to get people to hire them?](https://www.reddit.com/r/freelance/comments/42dp6z/how_should_a_freelancer_do_networking_at_linkedin/)
 
 ### CRM and Meetings
 * [Assistant.to](http://www.assistant.to/) Book meetings with one email. No back & forth. No double bookings. And it's free!
-* [Boomerang](http://www.boomeranggmail.com/) Boomerang for Gmail lets you take control of when you send and receive email messages (with bonus reminders and mobile integration)
 * [Streak](https://www.streak.com/) Streak adds the power of a fancy CRM solution to your Gmail inbox. The free tier is enough to manage a small freelance business.
+
+#### Emails
+* [CodePen: Really Good Emails](http://codepen.io/reallygoodemails/) A collection of inspiring and creative email templates
+* [Boomerang](http://www.boomeranggmail.com/) Boomerang for Gmail lets you take control of when you send and receive email messages (with bonus reminders and mobile integration)
 
 ## Legalities
 
