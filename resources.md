@@ -175,6 +175,7 @@ Many of these also have patterns, vectors, etc.
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [Using White Space For Readability In HTML And CSS](http://www.smashingmagazine.com/2013/02/19/using-white-space-for-readability-in-html-and-css/)
 * [The definitive list of resources & topics you'll need know](http://www.gitlogs.com/resource-guides) This list is updated in realtime and uses the Github API to find all the latest most influential resources
+* [WTF, HTML and CSS?](http://wtfhtmlcss.com/) Reasons HTML and CSS might make you say what the &⋆%#. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
 
 ## IDEs, Text Editors, and Code Editors
 
