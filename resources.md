@@ -5,13 +5,15 @@
 ### Color Pickers
 
 * [HTML Color Codes](http://htmlcolorcodes.com/) Can also generate color schemes for you and help you identify the named HTML colors
+* [ColorPick Eyedropper for Chrome](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) An eye-dropper & color-picker tool that allows you to select color values from webpages; gets colors in hexadecimal, RGB, and HSL
 
 ### Premade Color Schemes
 
-#### Communities
+#### Palette Generators and Showcases
 
 * [Adobe Color](https://color.adobe.com/)
-* [Colour Lovers](http://www.colourlovers.com/)
+* [Colour Lovers](http://www.colourlovers.com/) Also has a great section for patterns; you can color pattern templates with any color schemes on site (or create your own)
+* [Paletton](http://paletton.com/) Similar to Adobe Color, but also shows more tints/tones/shades of colors and can simulate other types of vision, such as color blindness
 
 #### Swatches
 
