@@ -142,6 +142,22 @@ Many of these also have patterns, vectors, etc.
 * [Veer](http://www.veer.com/products/fonts/)
 * [YWFT / You Work For Them](https://www.youworkforthem.com/fonts/)
 
+### Placeholder Content
+
+#### Images
+
+* [Dynamic Dummy Image](http://dummyimage.com/) You can set your own background and foreground at any given size
+* [lorempixel](http://lorempixel.com/) Placeholder images of a given size; you can also grab pictures by category and add dummy text
+* [placehold.it](https://placehold.it/) Just put your image size after our URL and you'll get a placeholder
+* [PlaceIMG](https://placeimg.com/) Also features images by category and with greyscale/sepia filters
+* [placekitten](http://placekitten.com/) A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. Just put your image size (width & height) after our URL and you'll get a placeholder.
+* [Unsplash It](https://unsplash.it/) Beautiful placeholders using images from Unsplash (featured in our freebie image section)
+
+#### Text
+
+* [lipsum](http://www.lipsum.com/) The classic: generate paragraphs of Lorem Ipsum
+* [Meet the Ipsums](http://meettheipsums.com/) "Where all ipsums come together". Sick of Lorem Ipsum? You've got choices!
+
 ## Branding
 
 ### Style Guides
