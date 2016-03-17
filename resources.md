@@ -67,13 +67,15 @@
 
 * [LibreStock](http://librestock.com/) Search through thousands of high quality do-what-ever-you-want stock photos from many of the sources above
 
-##### Patterns
+##### Patterns & Backgrounds
 
 * [7 Free Places to Find or Generate Seamless Patterns](http://designroast.org/7-free-places-find-generate-seamless-patterns/)
 * [bgpatterns](http://bgpatterns.com/) Like the pattern tool in Illustrator, but online
 * [Repper Patterns](http://repperpatterns.com/tool/) Turn raster images into repeatable tiles in various styles; you will get totally different results with photos and illustrations
 * [Subtle Patterns](http://subtlepatterns.com/) Free textures for your next web project.
+* [Textured Gradients](http://rentafounder.com/textured-gradients-in-pure-css/)
 * [Transparent Textures](http://www.transparenttextures.com/) Alphatransparency versions of Subtle Patterns (that means they work on any background color!)
+* [Unique gradient generator](http://gradient.quasi.ink/) This tool helps you to generate beautiful blurry background images that you can use in any project. It doesn't use CSS3 gradients, but a rather unique approach. It takes a stock image, extracts a very small area (sample area) and scales it up to 100%. The browser's image smoothing algorithm takes care of the rest.
 
 #### Commercial
 
@@ -342,6 +344,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 * [CSSgram](http://una.im/CSSgram/) A tiny (<1kb gzipped!) library for recreating Instagram filters with CSS filters and blend modes.
 * [Material Design buttons with ripple effect](http://codepen.io/carmination/pen/yNKZWO)
+* [Styling Broken Images](http://bitsofco.de/styling-broken-images/) One way we can handle broken images is to provide a message to the user saying that the image is broken. Using the attr() expression, we can even display the link to the broken image.
 * [Using background clip for text with CSS fallback](http://nimbupani.com/using-background-clip-for-text-with-css-fallback.html) This is how you can set a gradient or image as the background of text, just like a clipping path in Photoshop
 * [Write SVGs directly in CSS](https://github.com/jonathantneal/postcss-write-svg)
 * [Zurb: Motion UI](http://zurb.com/playground/motion-ui) A Sass library for creating flexible CSS transitions and animations.
