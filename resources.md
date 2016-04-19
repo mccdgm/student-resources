@@ -264,6 +264,9 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * [CSS Minifier](http://cssminifier.com/)
 * [The Importance (and Ease) of Minifying your CSS and JavaScript and Optimizing PNGs for your Blog or Website](http://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
 
+#### Usability & UX
+* [Mobile Input Types](http://mobileinputtypes.com/) Virtual keyboards are awesome. Use them. One of the easiest, cheapest, fastest and most effective ways of improving your mobile experience is using the right input type. It will save the user dozens of annoying taps and all you need to do is strike a few keys.
+
 ### Design Patterns and Code Structure
 
 * [BEM 101 on CSS-Tricks](https://css-tricks.com/bem-101/)
