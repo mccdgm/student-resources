@@ -177,6 +177,18 @@ Many of these also have patterns, vectors, etc.
 * [Design Patterns: You Already Know How To Use It](http://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/) “It’s crazy powerful. It’s magical. You already know how to use it.” This was an astonishing claim. Here was a new, market-defining, revolutionary device, unlike anything we had seen before, and we already knew how to use it. And yet, for the most part, the claim was true. How does a company like Apple make such great new things that people already know how to use?
 * [The 8 Worst UX Mistakes Coming From Experts](https://medium.com/@pkkoczorowski/the-8-worst-ux-mistakes-coming-from-experts-692884971f80)
 
+### Wireframing and Prototyping
+* [Axure](http://www.axure.com/edu) Axure RP is a desktop application that gives business and UX professionals diagramming, documentation, and interactive tools to quickly design and share interactive prototypes and specifications. If you're a student or teacher, submit your request below for a free educational license.
+* [Balsamiq](https://balsamiq.com/) Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
+* [Gliffy](https://www.gliffy.com/) Online diagram, flowchart, and wireframe software. Create professional-quality Flowcharts, Wireframes, UML diagrams, and more.
+* [InVision](https://www.invisionapp.com/) Get high-fidelity in under 5 minutes. Upload your design files and add animations, gestures, and transitions to transform your static screens into clickable, interactive prototypes.
+* [Lucidchart](https://www.lucidchart.com/pages/usecase/education-request) Lucidchart online diagram application makes it easy to sketch and share professional flowchart diagrams. Lucidchart is completely free for students and teachers everywhere.
+* [Visio](https://products.office.com/en-US/visio) Diagrams made simple. The one-stop diagramming solution to simplify and communicate complex information.
+ 
+#### Mac-Only
+* [Omnigraffle](https://www.omnigroup.com/omnigraffle) OmniGraffle is for creating precise, beautiful graphics. Like website wireframes, an electrical system design, a family tree, or mapping out software classes. For artists, designers, casual data-mappers, and everyone in-between.
+* [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+
 ### Readability
 
 * [Design for Readability](http://www.uxbooth.com/articles/design-for-readability/) Content Strategist Matt Herron explains the evolution of the "standard" content display model as well as what designers can do to improve their reader's experience.
