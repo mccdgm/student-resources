@@ -51,6 +51,7 @@
 * [Flickr Creative Commons](https://www.flickr.com/creativecommons/) Photos released under a Creative Commons license, which vary from totally-free to attribution-required to non-commercial use (and other permutations)
 * [FoodiesFeed](http://foodiesfeed.com/) For those who can't resist taking a picture of their food
 * [Gratisography](http://www.gratisography.com/) New images added weekly
+* [IM Creator Free](http://www.imcreator.com/free) A curated collection of free web design resources, all for commercial use.
 * [Jay Mantri](http://jaymantri.com/)
 * [Little Visuals](http://littlevisuals.co/)
 * [New Old Stock](http://nos.twnsnd.co/) New Old Stock publishes vintage photos from the Public Archives that are free of known copyright restrictions. If you have any photos like that, you can submit them.
@@ -58,6 +59,7 @@
 * [Picjumbo](https://picjumbo.com/)
 * [Pixabay](https://pixabay.com/)
 * [Splitshire](http://www.splitshire.com/)
+* [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators, & everyone else
 * [StockSnap.io](https://stocksnap.io/)
 * [Superfamous](http://images.superfamous.com/) Superfamous release photos under the Creative Commons Attribution 3.0 license, you can use them however you like – just provide credit.
 * [Unsplash](https://unsplash.com/) Free high-resolution photos. 10 new photos every 10 days.
@@ -65,6 +67,7 @@
 
 ###### Meta Searches
 
+* [FindA.Photo](http://finda.photo/) Search through thousands of free (CC0 licensed) stock photos by color, collection, or source
 * [LibreStock](http://librestock.com/) Search through thousands of high quality do-what-ever-you-want stock photos from many of the sources above
 
 ##### Patterns & Backgrounds
@@ -88,6 +91,7 @@ Many of these also have patterns, vectors, etc.
 * [Getty Images](http://www.gettyimages.com/)
 * [iStock](http://www.istockphoto.com/)
 * [Shutterstock](http://www.shutterstock.com)
+* [Stocksy](https://www.stocksy.com/) Stocksy is home to a highly curated collection of royalty-free stock photography that is beautiful, distinctive, and highly usable
 * [Veer](http://www.veer.com/products/images/)
 
 ### Icons
