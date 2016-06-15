@@ -34,6 +34,7 @@
 * [7 Rules for Mixing Multiple Fonts in Good Web Design](http://www.noupe.com/essentials/icons-fonts/mixing-multiple-fonts.html)
 * [Hoefler & Co.: Combining Fonts](http://www.typography.com/techniques/) Building a palette is an intuitive process, and expanding a typographic duet to three, four, or even five voices can be daunting. Our approach for mixing font families is to keep one quality consistent, and let the others vary.
 * [Practical Typography by Matthew Butterick](http://practicaltypography.com/)
+* [Typography Handbook](http://typographyhandbook.com/) A concise, referential guide on best web typographic practices
 
 ### Tools
 
