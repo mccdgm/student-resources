@@ -14,6 +14,7 @@
 * [Adobe Color](https://color.adobe.com/)
 * [Colour Lovers](http://www.colourlovers.com/) Also has a great section for patterns; you can color pattern templates with any color schemes on site (or create your own)
 * [Paletton](http://paletton.com/) Similar to Adobe Color, but also shows more tints/tones/shades of colors and can simulate other types of vision, such as color blindness
+* [Palettable](http://www.palettable.io/) Generate beautiful color palettes with no prior design experience
 
 #### Swatches
 
