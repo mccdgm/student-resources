@@ -643,6 +643,7 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 ## General
 
 * [Following the Hunch: How to Make Freelancing Into a Durable Business](http://99u.com/articles/51208/following-the-hunch-how-to-make-freelancing-into-a-durable-business) “Ideas are easy; execution is hard.” You’ve probably heard some variation of this in the past, and it’s true—but it’s also not the whole story. Executing on ideas only matters if it reflects what people actually want.
+* [Freelancing as a Student](http://clientsfromhell.net/post/150023913613/freelancing-as-a-student) Jennifer Fryer joins Bryce Bladon to share their experiences as student freelancers; they go on to debate why every student should consider freelancing _before_ graduating
 * [Mike Monteiro: Design is a Job (book)](http://abookapart.com/products/design-is-a-job)
 * [Product-wise consulting for freelancers](https://creativeclass.io/productwise-consulting/) One question I get a lot: I’m just starting out and I want to create a productized consulting service. What should I do? Let’s un-ask that question for a moment. Because it’s not the question you’re really asking. What you’re really asking is this: I’m just starting out and I want freelancing to be simple and easy. How can I do it?
 
