@@ -65,6 +65,7 @@
 * [StockSnap.io](https://stocksnap.io/)
 * [Superfamous](http://images.superfamous.com/) Superfamous release photos under the Creative Commons Attribution 3.0 license, you can use them however you like – just provide credit.
 * [Unsplash](https://unsplash.com/) Free high-resolution photos. 10 new photos every 10 days.
+* [Vintage Stock Photos](http://vintagestockphotos.com/) Fall in love with the blurry, scratched, grainy, misfit images depicting life in the middle of the 20th century
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) A database with millions of freely-usable media files to which anyone can contribute (even you!)
 
 ###### Meta Searches
