@@ -72,6 +72,7 @@
 
 * [FindA.Photo](http://finda.photo/) Search through thousands of free (CC0 licensed) stock photos by color, collection, or source
 * [LibreStock](http://librestock.com/) Search through thousands of high quality do-what-ever-you-want stock photos from many of the sources above
+* [Visual Hunt](https://visualhunt.com/) Hunt for best free images from many online sources and pull them all together in one spot. Most photos are CC0 license. You can also embed images directly from their site!
 
 ##### Patterns & Backgrounds
 
