@@ -417,8 +417,9 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 #### About Plugins
 
-* [WP Codex: Managing Plugins](https://codex.wordpress.org/Managing_Plugins)
 * [4 Ways to Evaluate WordPress Plugins before Installing](http://www.dummies.com/how-to/content/4-ways-to-evaluate-wordpress-plugins-before-instal.html)
+* [WP Codex: Managing Plugins](https://codex.wordpress.org/Managing_Plugins)
+* [You Might Not Need That WordPress Plugin](http://youmightnotneedthatwordpressplugin.com/) Running too many plugins can slow down your site, cause vulnerabilities, security issues and other problems. Here is list of snippets you can use that can offer the same functionality as some common plugins.
 
 #### Lists of "_X_ Best WordPress Plugins"
 
