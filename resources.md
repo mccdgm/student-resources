@@ -231,6 +231,7 @@ with Java, HTML5, PHP, C/C++ and more
 * [Sublime Text](http://www.sublimetext.com/) Sublime Text is a sophisticated text editor for code, markup and prose.
 You'll love the slick user interface, extraordinary features and amazing performance.
 * [TextMate](https://macromates.com/) TextMate brings Apple's approach to operating systems into the world of text editors. By bridging UNIX underpinnings and GUI, TextMate cherry-picks the best of both worlds to the benefit of expert scripters and novice users alike.
+* [VS Code](https://code.visualstudio.com/) Visual Studio Code: Free. Open source. Runs everywhere. VS Code also comes with built-in git support, a debugger, and a great autocomplete.
 
 ### Recommended Add-Ons
 
@@ -355,7 +356,7 @@ The "big three" are Less, Sass, and Stylus, but you have options!
 
 ##### Add-Ons and Related Projects
 
-These are all tools that make your Sass more efficient. Sass is also the magic behind the framework [Foundation](http://foundation.zurb.com/) and [Bootstrap 4 Alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/).
+These are all tools that make your Sass more efficient. Sass is also the magic behind the framework [Foundation](http://foundation.zurb.com/) and [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/).
 
 * [Bourbon](http://bourbon.io/) Bourbon is a lightweight Sass tool set that helps you write more effective stylesheets
 * [Bourbon Bitters](http://bitters.bourbon.io/) Bitters helps designers start projects faster by defining a basic set of Sass variables, default element style and project structure
