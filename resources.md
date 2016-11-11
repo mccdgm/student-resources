@@ -213,6 +213,7 @@ Many of these also have patterns, vectors, etc.
 
 * [Draw a favicon in-browser](http://www.favicon.cc/)
 * [Favicon Generator](http://realfavicongenerator.net/)
+* [Open Device Labs](https://opendevicelab.com/) A worldwide community of internet-connected devices for testing purposes of web and app developers
 * [Using White Space For Readability In HTML And CSS](http://www.smashingmagazine.com/2013/02/19/using-white-space-for-readability-in-html-and-css/)
 * [The definitive list of resources & topics you'll need know](http://www.gitlogs.com/resource-guides) This list is updated in realtime and uses the Github API to find all the latest most influential resources
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/) Reasons HTML and CSS might make you say what the &⋆%#. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
