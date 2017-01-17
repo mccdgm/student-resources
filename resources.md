@@ -318,6 +318,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### Framework Tools
 
+* [Bootstrap](https://bootswatch.com/) Premade color schemes for use with Bootstrap
 * [LayoutIt for Bootstrap](http://www.layoutit.com/) Create your frontend code simple and quickly with Bootstrap using our Drag & Drop Interface Builder.
 
 ### Menus and Navigation
