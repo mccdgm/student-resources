@@ -297,7 +297,8 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * [Example: GitHub](https://github.com/styleguide/css)
 * [Example: Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Example: MailChimp](http://ux.mailchimp.com/patterns/)
-* [Example: WordPress](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [Example: 
+](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [Getting started with pattern libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) All the pattern files (snippets of markup) are in their own folder, and adding one in there automatically adds it to the library. By breaking the site up into patterns, it’s easier to find those bits of markup.
 * [Jeremy Clarke's DRY CSS](http://www.slideshare.net/jeremyclarke/dry-css-a-dontrepeatyourself-methodology-for-creating-efficient-unified-and-scalable-stylesheets)
 * [Jonathan Snook: CSS Workflow from the Ground Up (Video)](https://www.youtube.com/watch?v=ZVk3GQHfkbU) "This session will look at how to write scalable, modular CSS and the tooling to audit and maintain that CSS for growing projects that are in continual development."
@@ -410,6 +411,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 * [/r/wordpress](http://www.reddit.com/r/Wordpress/) The WordPress community on reddit
 * [/r/WordpressPlugins](https://www.reddit.com/r/WordpressPlugins)
 * [/r/WordPressthemes](https://jo.reddit.com/r/WordPressthemes)
+* [Changing your WordPress Password with cPanel and phpMyAdmin](https://www.youtube.com/watch?v=McROaKniHUQ) Forgot to set up a recovery email when you created your WordPress installation? It is still easy to change your password!
 * [Smashing Magazine: WordPress](http://wp.smashingmagazine.com/)
 * [Stack Overflow: tagged "wordpress"](http://stackoverflow.com/questions/tagged/wordpress)
 * [Stack Exchange: WordPress Development](http://wordpress.stackexchange.com/)
