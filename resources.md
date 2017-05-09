@@ -371,6 +371,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 ### Special Effects
 
 * [CSSgram](http://una.im/CSSgram/) A tiny (<1kb gzipped!) library for recreating Instagram filters with CSS filters and blend modes.
+* [Easing Linear Gradients](https://css-tricks.com/easing-linear-gradients/) Use better `linear-gradient` settings for smoother transitions
 * [Material Design buttons with ripple effect](http://codepen.io/carmination/pen/yNKZWO)
 * [Styling Broken Images](http://bitsofco.de/styling-broken-images/) One way we can handle broken images is to provide a message to the user saying that the image is broken. Using the attr() expression, we can even display the link to the broken image.
 * [Using background clip for text with CSS fallback](http://nimbupani.com/using-background-clip-for-text-with-css-fallback.html) This is how you can set a gradient or image as the background of text, just like a clipping path in Photoshop
