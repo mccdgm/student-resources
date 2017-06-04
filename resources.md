@@ -380,7 +380,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ### Webfonts
 
-* [Stephy's How-to Guide](http://stephy.mccdgm.net/guides/webfonts)
+* [Stephy's Webfont Guide](https://mccdgm.github.io/webfont-guide/)
 
 ## HTML
 
