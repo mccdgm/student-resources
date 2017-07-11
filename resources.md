@@ -281,6 +281,11 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * [CSS Specificity Wars](http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html) In the style of Star Wars
 * [CSS Tricks: The Difference Between ID and Class](http://css-tricks.com/the-difference-between-id-and-class/)
 
+#### Flexbox
+* [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+
 ### Optimization
 
 #### Minification
