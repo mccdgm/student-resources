@@ -176,7 +176,6 @@ Many of these also have patterns, vectors, etc.
 * [Frontify](https://frontify.com/styleguide) Create free style guides in less than 5 minutes
 * [OpenBrand](https://openbrand.com/) Unlike a simple shared drive, OpenBrand ensures everything is documented and your creative works are complete with all source files and production data.
 * [StyleGuide](http://hugeinc.github.io/styleguide/) A tool to make creating and maintaining styleguides easy.
-* [Free Resource Download: Digital Brand & UX Guideline](http://ashleymporciuncula.com/portfolio/free-resource-download-digital-brand-ux-guideline-document/) This easy-to-custom template includes pre-formatted sections for a full Digital Brand & UX guideline document
 
 ## UI/UX
 
@@ -303,14 +302,12 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * [BEM: Block, Element, Modifier](https://en.bem.info/) The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 * [DRYer Vanilla CSS ](http://csswizardry.com/2013/07/writing-dryer-vanilla-css/) DRY: Don't Repeat Yourself
 * [Example: GitHub](https://github.com/styleguide/css)
-* [Example: Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Example: MailChimp](http://ux.mailchimp.com/patterns/)
 * [Example: 
 ](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [Getting started with pattern libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) All the pattern files (snippets of markup) are in their own folder, and adding one in there automatically adds it to the library. By breaking the site up into patterns, it’s easier to find those bits of markup.
 * [Jeremy Clarke's DRY CSS](http://www.slideshare.net/jeremyclarke/dry-css-a-dontrepeatyourself-methodology-for-creating-efficient-unified-and-scalable-stylesheets)
 * [Jonathan Snook: CSS Workflow from the Ground Up (Video)](https://www.youtube.com/watch?v=ZVk3GQHfkbU) "This session will look at how to write scalable, modular CSS and the tooling to audit and maintain that CSS for growing projects that are in continual development."
-* [Modular CSS: Thoughts on SMACSS Modules](http://www.brettjankord.com/2013/03/09/modular-css-thoughts-on-smacss-modules-2/)
 * [PatternLab](http://patternlab.io/) Pattern Lab serves as your project's pattern library and frontend style guide, but you're simultaneously able to see components abstractly and in context.
 * [pea.rs](http://pea.rs/) Collect, test, and experiment with interface pattern pairings of CSS & HTML. Pears is an open source WordPress theme, enabling people like you to get your own pattern library up and running quickly.
 * [SMACSS: Scalable and Modular Architecture for CSS](https://smacss.com/book/) SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. With SMACSS, we divide our styles into fives categories: base, layout, modules, states, and themes. Each of these categories come with a set of usage rules.
@@ -453,7 +450,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ##### Communications
 
-* [Comment Blacklist Manager]() Checks if the master list in [Comment Blacklist for WordPress](https://github.com/splorp/wordpress-comment-blacklist) has updated and updates the `blacklist_keys` setting in WordPress
+* [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) Checks if the master list in [Comment Blacklist for WordPress](https://github.com/splorp/wordpress-comment-blacklist) has updated and updates the `blacklist_keys` setting in WordPress
 * [oEmbed in Comments](https://wordpress.org/plugins/oembed-in-comments/) oEmbed is an easy way to embed media. It turns links into embedded content automatically. WordPress has supported it in posts for a while, but not in comments. This plugin uses the oEmbed support already in WordPress and adds it to comments.
 
 ##### Development
@@ -475,9 +472,8 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 * [Ship](http://ship.getherbert.com/) Tag a release on GitHub and have it automatically shipped to the official WordPress.org plugin SVN
 * [Shortcake](https://wordpress.org/plugins/shortcode-ui/) Used alongside add_shortcode, Shortcake supplies a user-friendly interface for adding a shortcode to a post, and viewing and editing it from within the content editor
 * [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page
-* [TGM Plugin Activation](tgmpluginactivation.com/) TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
+* [TGM Plugin Activation](http://tgmpluginactivation.com/) TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
 * [Theme Check](https://wordpress.org/plugins/theme-check/) The theme check plugin is an easy way to test your theme and make sure it's up to spec with the latest theme review standards. With it, you can run all the same automated testing tools on your theme that WordPress.org uses for theme submissions.
-* [WP Quick Install](http://wp-quick-install.com/) WordPress installation could be long: downloading, decompressing, uploading, plugins and themes installation. WP Quick Install will take care all of this things. Simply upload this tiny script where you want to install WordPress.
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) Rollback (or forward) any WordPress.org plugin or theme like a boss
 * [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker)  A custom WordPress nav walker class to fully implement the Twitter Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager
 * [WP-CLI](http://wp-cli.org/) WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
@@ -662,10 +658,8 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 
 ## General
 
-* [Following the Hunch: How to Make Freelancing Into a Durable Business](http://99u.com/articles/51208/following-the-hunch-how-to-make-freelancing-into-a-durable-business) “Ideas are easy; execution is hard.” You’ve probably heard some variation of this in the past, and it’s true—but it’s also not the whole story. Executing on ideas only matters if it reflects what people actually want.
 * [Freelancing as a Student](http://clientsfromhell.net/post/150023913613/freelancing-as-a-student) Jennifer Fryer joins Bryce Bladon to share their experiences as student freelancers; they go on to debate why every student should consider freelancing _before_ graduating
 * [Mike Monteiro: Design is a Job (book)](http://abookapart.com/products/design-is-a-job)
-* [Product-wise consulting for freelancers](https://creativeclass.io/productwise-consulting/) One question I get a lot: I’m just starting out and I want to create a productized consulting service. What should I do? Let’s un-ask that question for a moment. Because it’s not the question you’re really asking. What you’re really asking is this: I’m just starting out and I want freelancing to be simple and easy. How can I do it?
 
 ## Communication: Getting (and keeping) Clients
 
@@ -690,7 +684,6 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 ## Legalities
 
 * [How do I politely dissuade a client from using stolen fonts?](https://www.reddit.com/r/graphic_design/comments/2s32d6/how_do_i_politely_dissuade_a_client_from_using/cnm1kpe) tl;dr: people can and do get in trouble for this
-* [Pirated WordPress Plugins Are Commonly Infected With Heavily Obfuscated Viruses](http://www.davirro.org/pirated-wordpress-plugins-are-commonly-infected-with-heavily-obfuscated-viruses/) "It should be noted that none of the online WordPress scanners or plugins detected even the initial seven line iteration of the virus"
 * [Register Your Fictitious or "Doing Business As" (DBA) Name](https://www.sba.gov/content/register-your-fictitious-or-doing-business-dba-name) If you want to accept checks made out to "Cool Design Company" vs. "Your Name" (which looks a lot more professional), this is the easiest way
 
 ### Contracts
