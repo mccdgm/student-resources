@@ -326,7 +326,10 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### Framework Tools
 
+##### Bootstrap
+
 * [Bootstrap](https://bootswatch.com/) Premade color schemes for use with Bootstrap
+* [Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
 * [LayoutIt for Bootstrap](http://www.layoutit.com/) Create your frontend code simple and quickly with Bootstrap using our Drag & Drop Interface Builder.
 
 ### Menus and Navigation
