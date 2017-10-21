@@ -28,6 +28,7 @@
 
 * [Check My Colours](http://www.checkmycolours.com/) Runs on a URL
 * [Color Contrast Checker](http://webaim.org/resources/contrastchecker/) For individual color pairs
+* [Funkify](http://www.funkify.org) Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities
 * [Lea Verou's Color Contrast Checker](http://leaverou.github.io/contrast-ratio)
 
 ## Typography
