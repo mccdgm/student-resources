@@ -427,6 +427,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 * [Stack Overflow: tagged "wordpress"](http://stackoverflow.com/questions/tagged/wordpress)
 * [Stack Exchange: WordPress Development](http://wordpress.stackexchange.com/)
 * [WordPress Statistics for the Top 500K Sites](https://hackertarget.com/wordpress-statistics-top-500k/)
+* [HEAD](http://gethead.info) A free guide to everything you might put in the `<head>`
 
 ### Plugins
 
