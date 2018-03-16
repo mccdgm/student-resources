@@ -8,6 +8,6 @@ This repository uses [Flatdoc](https://github.com/rstacruz/flatdoc) to turn reso
 
 # Colophon
 
-Seamless pattern by [Transparent Textures](http://www.transparenttextures.com/)
+Section header images via [Unsplash](http://www.unsplash.com/)
 
 Markdown ➜ HTML by [Flatdoc](https://github.com/rstacruz/flatdoc)
