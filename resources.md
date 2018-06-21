@@ -245,6 +245,20 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 * [Emmet](http://docs.emmet.io/) Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow
 
+#### VS Code
+
+* [BetterWhitespace](https://marketplace.visualstudio.com/items?itemName=chmln.better-whitespace) Shows whitespace (tabs and spaces) when text is selected
+* [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) Helper with GUI to generate color codes such as CSS color notations (and to change their format from e.g. hexadecimal to HSL)
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) If you use git version control, you can compare file revisions, see authorship info, and much more
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) CSS class name completion for the HTML class attribute based on the definitions found in your workspace
+* [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Launch a development local Server with live reload feature for static & dynamic pages
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) Compile Sass or Scss to CSS at realtime with live browser reload
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) Format your JavaScript / TypeScript / CSS using Prettier
+* [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) Serve current workspace (or subfolder) with PHP
+* [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) Real-time collaborative development from the comfort of your favorite tools
+
 #### Brackets
 
 * [Beautify](https://github.com/drewhamlett/brackets-beautify) Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
