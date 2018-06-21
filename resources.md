@@ -275,7 +275,6 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### Readability
 
-* [CSS Beautify](http://cssbeautify.com/) Automatically reformat your CSS to be more readable
 * [Smashing Magazine: Improving Code Readability With CSS Styleguides ](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 
 #### Specificity
@@ -363,7 +362,6 @@ The "big three" are Less, Sass, and Stylus, but you have options!
 * [25 Essential Sass and Compass Tools](http://mashable.com/2013/06/11/sass-compass-tools/#iDWcmxN9Q5qx)
 * [A visual guide to Sass & Compass Color Functions](http://jackiebalzer.com/color) Sass and Compass provide a number of useful functions you can use to alter and manipulate colors with ease. Most color functions operate on a single color, but some can be used to combine two colors in different ways.
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
-* [SassMe](http://sassme.arc90.com/) Visualize SASS color functions in real-time without compiling
 * [Sassmeister](http://sassmeister.com/) Compile your SCSS/SASS online
 * [Simplify your Mobile Development with this SASS Mixin](http://teeohhem.com/simplify-your-mobile-breakpoints-with-this-sass-mixin/)
 * [Using Sass functions to access variable maps](http://codepen.io/jakealbaugh/post/using-sass-functions-to-access-complex-variable-maps)
@@ -401,7 +399,6 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ### HTML5 Introduction
 
-* [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 
 ### Semantic HTML
@@ -437,11 +434,9 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 * [4 Ways to Evaluate WordPress Plugins before Installing](http://www.dummies.com/how-to/content/4-ways-to-evaluate-wordpress-plugins-before-instal.html)
 * [WP Codex: Managing Plugins](https://codex.wordpress.org/Managing_Plugins)
-* [You Might Not Need That WordPress Plugin](http://youmightnotneedthatwordpressplugin.com/) Running too many plugins can slow down your site, cause vulnerabilities, security issues and other problems. Here is list of snippets you can use that can offer the same functionality as some common plugins.
 
 #### Lists of "_X_ Best WordPress Plugins"
 
-* [15 Best WordPress Security Plugins For 2015](http://webloggerz.com/best-wordpress-security-plugins/)
 * [6 Top WordPress Backup Plugin Recommendations](http://www.stateofdigital.com/top-6-wordpress-backup-plugin-recommendations-for-2013/)
 * [An In-Depth Look at 4 Major Blog Commenting Systems for WordPress](https://kinsta.com/blog/blog-comment-systems/)
 
@@ -644,7 +639,6 @@ Easier management of regular WordPress posts, custom post types, and pages
 
 * [WP Codex: Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors)
 * [WP Codex: Hardening WordPress](http://codex.wordpress.org/Hardening_WordPress)
-* [Backing up a WordPress Database to Amazon S3](http://ryanfrankel.com/backing-wordpress-database-amazon-s3/)
 * [Example of a WordPress Website Hack Attack](http://html5.litten.com/example-of-a-wordpress-website-hack-attack/)
 * [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 * [WordPress Security: Tackling Backdoors, Pharma Hacks and Redirects](http://premium.wpmudev.org/blog/wordpress-security-tackling-backdoors-pharma-hacks-and-redirects/)
@@ -705,7 +699,6 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 * [Freelance vs Agency Contract vs Full Time Salary](http://workplace.stackexchange.com/questions/19799/freelance-vs-agency-contract-vs-full-time-salary) As a freelancer, you need to charge quite a bit more to make up for taxes, insurance costs, business expenses, compensating for irregular work...
 * [Giving People Options](http://thenuschool.com/what-i-learned-about-pricing-while-being-stuck-in-traffic/) How giving your clients more options can earn you more money
 * [Graphic Artist's Guild: Handbook of Pricing and Ethical Guidelines](http://www.amazon.com/gp/product/0932102166)
-* [Hourly rate calculator](http://motivapp.com/freelance-hourly-rate-calculator)
 * [How much should I charge?](http://thenuschool.com/how-much/?ref=rdtde#/client) Answer 5 questions and know how much to charge to make this project profitable.
 * [Lifehacker: The Complete Guide to Setting and Negotiating Freelance Rates](http://lifehacker.com/5994064/the-complete-guide-to-setting-and-negotiating-freelance-rates) Define your Minimum Acceptable Rate, learn how to negotiate, and when it might make sense to accept a job for less money
 * [Should I work for free?](http://shouldiworkforfree.com/) Interactive flowchart by Jessica Hische
