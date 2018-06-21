@@ -527,7 +527,7 @@ The foundation of the plugin is its extensive role and capability management sys
 Easier management of regular WordPress posts, custom post types, and pages
 
 * [Advanced Excerpt](https://wordpress.org/plugins/advanced-excerpt/) Control the appearance of WordPress post excerpts (for instance, allowing HTML)
-* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by [Noël Jackson](http://noel.io); allows per-page and per-post custom CSS and JS
+* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by Noël Jackson; allows per-page and per-post custom CSS and JS
 * [Code Markup](https://wordpress.org/plugins/code-markup/) Code Markup is a WordPress plugin that makes it easy to include program code samples in your posts. You can even include HTML markup in the code sample; Code Markup magically knows which characters should be displayed as code and which should be rendered as HTML.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) This plugin allows you to clone a post/page or edit it as a new draft
 * [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder
