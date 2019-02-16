@@ -191,10 +191,11 @@ Many of these also have patterns, vectors, etc.
 ### Wireframing and Prototyping
 * [Axure](http://www.axure.com/edu) Axure RP is a desktop application that gives business and UX professionals diagramming, documentation, and interactive tools to quickly design and share interactive prototypes and specifications. If you're a student or teacher, submit your request for a free educational license.
 * [Balsamiq](https://balsamiq.com/) Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer. Free license available for students!
+* [Draw.io download](https://about.draw.io/integrations/) Wireframing, flowcharts, UML diagrams, etc. This is free and can be used in the browser or downloaded to your desktop (scroll to the bottom of the page for the download). To use the online version [draw.io](https://www.draw.io).
 * [Gliffy](https://www.gliffy.com/) Online diagram, flowchart, and wireframe software. Create professional-quality Flowcharts, Wireframes, UML diagrams, and more.
 * [InVision](https://www.invisionapp.com/) Get high-fidelity in under 5 minutes. Upload your design files and add animations, gestures, and transitions to transform your static screens into clickable, interactive prototypes.
 * [Lucidchart](https://www.lucidchart.com/pages/usecase/education-request) Lucidchart online diagram application makes it easy to sketch and share professional flowchart diagrams. Lucidchart is completely free for students and teachers everywhere (after submitting a request).
-* [Pencil](http://pencil.evolus.vn/) encil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms
+* [Pencil](http://pencil.evolus.vn/) Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms
 * [Visio](https://products.office.com/en-US/visio) Diagrams made simple. The one-stop diagramming solution to simplify and communicate complex information.
  
 #### Mac-Only
