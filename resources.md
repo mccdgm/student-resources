@@ -105,6 +105,7 @@ Many of these also have patterns, vectors, etc.
 * [12 Incredible Resources for Downloading Icon Packs](https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs) A mix of paid and free
 * [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 * [GlyphSearch is your free Icon Search Engine](http://glyphsearch.com/)
+* [ICONSVG.xyz](https://iconsvg.xyz) Browse from a collection of basic and commonly-used interface icons. Modify some of its appearances including thickness, joins and ends. Download the icon, or copy the SVG code into your code editor.
 * [The Noun Project](https://thenounproject.com/) Free with attribution; icons are also available in a subscription or with per-icon payment. Huge selection of styles!
 
 ### Mockups
@@ -117,6 +118,7 @@ Many of these also have patterns, vectors, etc.
 * [Pixeden](http://www.pixeden.com/psd-mock-up-templates) Premium & Free Psd Mock-Up Templates. Our mock-up templates are ideal to showcase your design directly on the appropriate medium. Each PSD mock-up is fully layered with smart object to make the creation of your mock-up template just a quick drag and drop affair.
 * [PSD Covers](http://www.psdcovers.com/) Use our Photoshop Actions to turn your 2D designs into 3D products in seconds!
 * [PSD Repo](http://psdrepo.com/tag/free-psd-mockups/) PSD Repo helps you to find design resources that are offered for free to the community
+* [shotsnapp](https://app.shotsnapp.com/) Browser-based mockups
 * [Webresources: 20+ Amazing Free T-Shirt Mockup PSD Templates](https://www.webresourcesfree.com/amizing-free-t-shirt-mockup-psd-templates/)
 
 ### Video
