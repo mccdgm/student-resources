@@ -745,7 +745,6 @@ Many of these have a (very) limited free tier, then multiple paid tiers based on
 
 * [41 Resources to Help You Write High-Converting Copy](http://www.funnelenvy.com/blog/2013/10/30/40-resources-to-help-you-write-high-converting-copy/)
 * [7 Simple Copywriting Tweaks That’ll Shoot Your Conversion Rate Up](http://www.quicksprout.com/2013/08/05/7-simple-copywriting-tweaks-thatll-shoot-your-conversion-rate-up/)
-* [Great Email Copy](http://greatemailcopy.com/)
 * [Headline Analyzer](http://coschedule.com/headline-analyzer)
 * [How To Write Headlines That Drive Traffic, Shares, and Search Results](http://coschedule.com/blog/how-to-write-the-best-headlines-that-will-increase-traffic/)
 * [KingSumo Headlines: Test the best headline for your website](https://kingsumo.com/apps/headlines/)
