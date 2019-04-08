@@ -396,6 +396,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ### Special Effects
 
+* [Animista](http://animista.net) Quickly generate CSS animations
 * [CSSgram](http://una.im/CSSgram/) A tiny (<1kb gzipped!) library for recreating Instagram filters with CSS filters and blend modes.
 * [Easing Linear Gradients](https://css-tricks.com/easing-linear-gradients/) Use better `linear-gradient` settings for smoother transitions
 * [Material Design buttons with ripple effect](http://codepen.io/carmination/pen/yNKZWO)
