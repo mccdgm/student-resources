@@ -104,6 +104,7 @@ Many of these also have patterns, vectors, etc.
 * [12 Incredible Resources for Downloading Icon Packs](https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs) A mix of paid and free
 * [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 * [GlyphSearch is your free Icon Search Engine](http://glyphsearch.com/)
+* [ICONSVG.xyz](https://iconsvg.xyz) Browse from a collection of basic and commonly-used interface icons. Modify some of its appearances including thickness, joins and ends. Download the icon, or copy the SVG code into your code editor.
 * [The Noun Project](https://thenounproject.com/) Free with attribution; icons are also available in a subscription or with per-icon payment. Huge selection of styles!
 
 ### Mockups
@@ -116,6 +117,7 @@ Many of these also have patterns, vectors, etc.
 * [Pixeden](http://www.pixeden.com/psd-mock-up-templates) Premium & Free Psd Mock-Up Templates. Our mock-up templates are ideal to showcase your design directly on the appropriate medium. Each PSD mock-up is fully layered with smart object to make the creation of your mock-up template just a quick drag and drop affair.
 * [PSD Covers](http://www.psdcovers.com/) Use our Photoshop Actions to turn your 2D designs into 3D products in seconds!
 * [PSD Repo](http://psdrepo.com/tag/free-psd-mockups/) PSD Repo helps you to find design resources that are offered for free to the community
+* [shotsnapp](https://app.shotsnapp.com/) Browser-based mockups
 * [Webresources: 20+ Amazing Free T-Shirt Mockup PSD Templates](https://www.webresourcesfree.com/amizing-free-t-shirt-mockup-psd-templates/)
 
 ### Video
@@ -188,10 +190,12 @@ Many of these also have patterns, vectors, etc.
 ### Wireframing and Prototyping
 * [Axure](http://www.axure.com/edu) Axure RP is a desktop application that gives business and UX professionals diagramming, documentation, and interactive tools to quickly design and share interactive prototypes and specifications. If you're a student or teacher, submit your request for a free educational license.
 * [Balsamiq](https://balsamiq.com/) Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer. Free license available for students!
+* [Draw.io (Download Version)](https://about.draw.io/integrations/) Wireframing, flowcharts, UML diagrams, etc. This is free and can be used in the browser or downloaded to your desktop (scroll to the bottom of the page for the download).
+* [Draw.io (Online Version)](https://www.draw.io)
 * [Gliffy](https://www.gliffy.com/) Online diagram, flowchart, and wireframe software. Create professional-quality Flowcharts, Wireframes, UML diagrams, and more.
 * [InVision](https://www.invisionapp.com/) Get high-fidelity in under 5 minutes. Upload your design files and add animations, gestures, and transitions to transform your static screens into clickable, interactive prototypes.
 * [Lucidchart](https://www.lucidchart.com/pages/usecase/education-request) Lucidchart online diagram application makes it easy to sketch and share professional flowchart diagrams. Lucidchart is completely free for students and teachers everywhere (after submitting a request).
-* [Pencil](http://pencil.evolus.vn/) encil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms
+* [Pencil](http://pencil.evolus.vn/) Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms
 * [Visio](https://products.office.com/en-US/visio) Diagrams made simple. The one-stop diagramming solution to simplify and communicate complex information.
  
 #### Mac-Only
@@ -241,6 +245,20 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 * [Emmet](http://docs.emmet.io/) Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow
 
+#### VS Code
+
+* [BetterWhitespace](https://marketplace.visualstudio.com/items?itemName=chmln.better-whitespace) Shows whitespace (tabs and spaces) when text is selected
+* [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) Helper with GUI to generate color codes such as CSS color notations (and to change their format from e.g. hexadecimal to HSL)
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) If you use git version control, you can compare file revisions, see authorship info, and much more
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) CSS class name completion for the HTML class attribute based on the definitions found in your workspace
+* [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Launch a development local Server with live reload feature for static & dynamic pages
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) Compile Sass or Scss to CSS at realtime with live browser reload
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) Format your JavaScript / TypeScript / CSS using Prettier
+* [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) Serve current workspace (or subfolder) with PHP
+* [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) Real-time collaborative development from the comfort of your favorite tools
+
 #### Brackets
 
 * [Beautify](https://github.com/drewhamlett/brackets-beautify) Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
@@ -271,7 +289,6 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### Readability
 
-* [CSS Beautify](http://cssbeautify.com/) Automatically reformat your CSS to be more readable
 * [Smashing Magazine: Improving Code Readability With CSS Styleguides ](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 
 #### Specificity
@@ -359,7 +376,6 @@ The "big three" are Less, Sass, and Stylus, but you have options!
 * [25 Essential Sass and Compass Tools](http://mashable.com/2013/06/11/sass-compass-tools/#iDWcmxN9Q5qx)
 * [A visual guide to Sass & Compass Color Functions](http://jackiebalzer.com/color) Sass and Compass provide a number of useful functions you can use to alter and manipulate colors with ease. Most color functions operate on a single color, but some can be used to combine two colors in different ways.
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
-* [SassMe](http://sassme.arc90.com/) Visualize SASS color functions in real-time without compiling
 * [Sassmeister](http://sassmeister.com/) Compile your SCSS/SASS online
 * [Simplify your Mobile Development with this SASS Mixin](http://teeohhem.com/simplify-your-mobile-breakpoints-with-this-sass-mixin/)
 * [Using Sass functions to access variable maps](http://codepen.io/jakealbaugh/post/using-sass-functions-to-access-complex-variable-maps)
@@ -376,6 +392,7 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ### Special Effects
 
+* [Animista](http://animista.net) Quickly generate CSS animations
 * [CSSgram](http://una.im/CSSgram/) A tiny (<1kb gzipped!) library for recreating Instagram filters with CSS filters and blend modes.
 * [Easing Linear Gradients](https://css-tricks.com/easing-linear-gradients/) Use better `linear-gradient` settings for smoother transitions
 * [Material Design buttons with ripple effect](http://codepen.io/carmination/pen/yNKZWO)
@@ -397,7 +414,6 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 ### HTML5 Introduction
 
-* [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 
 ### Semantic HTML
@@ -433,11 +449,9 @@ These are all tools that make your Sass more efficient. Sass is also the magic b
 
 * [4 Ways to Evaluate WordPress Plugins before Installing](http://www.dummies.com/how-to/content/4-ways-to-evaluate-wordpress-plugins-before-instal.html)
 * [WP Codex: Managing Plugins](https://codex.wordpress.org/Managing_Plugins)
-* [You Might Not Need That WordPress Plugin](http://youmightnotneedthatwordpressplugin.com/) Running too many plugins can slow down your site, cause vulnerabilities, security issues and other problems. Here is list of snippets you can use that can offer the same functionality as some common plugins.
 
 #### Lists of "_X_ Best WordPress Plugins"
 
-* [15 Best WordPress Security Plugins For 2015](http://webloggerz.com/best-wordpress-security-plugins/)
 * [6 Top WordPress Backup Plugin Recommendations](http://www.stateofdigital.com/top-6-wordpress-backup-plugin-recommendations-for-2013/)
 * [An In-Depth Look at 4 Major Blog Commenting Systems for WordPress](https://kinsta.com/blog/blog-comment-systems/)
 
@@ -528,7 +542,7 @@ The foundation of the plugin is its extensive role and capability management sys
 Easier management of regular WordPress posts, custom post types, and pages
 
 * [Advanced Excerpt](https://wordpress.org/plugins/advanced-excerpt/) Control the appearance of WordPress post excerpts (for instance, allowing HTML)
-* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by [Noël Jackson](http://noel.io); allows per-page and per-post custom CSS and JS
+* [Better Art Direction](https://github.com/davatron5000/better-art-direction) A fork of the incredible Art Direction plugin by Noël Jackson; allows per-page and per-post custom CSS and JS
 * [Code Markup](https://wordpress.org/plugins/code-markup/) Code Markup is a WordPress plugin that makes it easy to include program code samples in your posts. You can even include HTML markup in the code sample; Code Markup magically knows which characters should be displayed as code and which should be rendered as HTML.
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) This plugin allows you to clone a post/page or edit it as a new draft
 * [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder
@@ -638,7 +652,6 @@ Easier management of regular WordPress posts, custom post types, and pages
 
 * [WP Codex: Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors)
 * [WP Codex: Hardening WordPress](http://codex.wordpress.org/Hardening_WordPress)
-* [Backing up a WordPress Database to Amazon S3](http://ryanfrankel.com/backing-wordpress-database-amazon-s3/)
 * [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 * [WordPress Security: Tackling Backdoors, Pharma Hacks and Redirects](http://premium.wpmudev.org/blog/wordpress-security-tackling-backdoors-pharma-hacks-and-redirects/)
 * [WP Troubleshooting Outline](http://zerro-four.com/wp-troubleshooting-outline/)
@@ -697,7 +710,6 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 * [Freelance vs Agency Contract vs Full Time Salary](http://workplace.stackexchange.com/questions/19799/freelance-vs-agency-contract-vs-full-time-salary) As a freelancer, you need to charge quite a bit more to make up for taxes, insurance costs, business expenses, compensating for irregular work...
 * [Giving People Options](http://thenuschool.com/what-i-learned-about-pricing-while-being-stuck-in-traffic/) How giving your clients more options can earn you more money
 * [Graphic Artist's Guild: Handbook of Pricing and Ethical Guidelines](http://www.amazon.com/gp/product/0932102166)
-* [Hourly rate calculator](http://motivapp.com/freelance-hourly-rate-calculator)
 * [How much should I charge?](http://thenuschool.com/how-much/?ref=rdtde#/client) Answer 5 questions and know how much to charge to make this project profitable.
 * [Lifehacker: The Complete Guide to Setting and Negotiating Freelance Rates](http://lifehacker.com/5994064/the-complete-guide-to-setting-and-negotiating-freelance-rates) Define your Minimum Acceptable Rate, learn how to negotiate, and when it might make sense to accept a job for less money
 * [Should I work for free?](http://shouldiworkforfree.com/) Interactive flowchart by Jessica Hische
@@ -726,7 +738,6 @@ Many of these have a (very) limited free tier, then multiple paid tiers based on
 
 * [41 Resources to Help You Write High-Converting Copy](http://www.funnelenvy.com/blog/2013/10/30/40-resources-to-help-you-write-high-converting-copy/)
 * [7 Simple Copywriting Tweaks That’ll Shoot Your Conversion Rate Up](http://www.quicksprout.com/2013/08/05/7-simple-copywriting-tweaks-thatll-shoot-your-conversion-rate-up/)
-* [Great Email Copy](http://greatemailcopy.com/)
 * [Headline Analyzer](http://coschedule.com/headline-analyzer)
 * [How To Write Headlines That Drive Traffic, Shares, and Search Results](http://coschedule.com/blog/how-to-write-the-best-headlines-that-will-increase-traffic/)
 * [KingSumo Headlines: Test the best headline for your website](https://kingsumo.com/apps/headlines/)
