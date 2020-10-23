@@ -79,7 +79,6 @@
 ##### Patterns & Backgrounds
 
 * [7 Free Places to Find or Generate Seamless Patterns](http://designroast.org/7-free-places-find-generate-seamless-patterns/)
-* [bgpatterns](http://bgpatterns.com/) Like the pattern tool in Illustrator, but online
 * [Repper Patterns](http://repperpatterns.com/tool/) Turn raster images into repeatable tiles in various styles; you will get totally different results with photos and illustrations
 * [Subtle Patterns](http://subtlepatterns.com/) Free textures for your next web project.
 * [Textured Gradients](http://rentafounder.com/textured-gradients-in-pure-css/)
@@ -160,7 +159,6 @@ Many of these also have patterns, vectors, etc.
 #### Images
 
 * [Dynamic Dummy Image](http://dummyimage.com/) You can set your own background and foreground at any given size
-* [lorempixel](http://lorempixel.com/) Placeholder images of a given size; you can also grab pictures by category and add dummy text
 * [placehold.it](https://placehold.it/) Just put your image size after our URL and you'll get a placeholder
 * [PlaceIMG](https://placeimg.com/) Also features images by category and with greyscale/sepia filters
 * [placekitten](http://placekitten.com/) A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. Just put your image size (width & height) after our URL and you'll get a placeholder.
@@ -186,7 +184,6 @@ Many of these also have patterns, vectors, etc.
 
 * [Cadence & Slang (book)](http://cadence.cc/) The fastest way to understand interaction design, now in its second edition
 * [Design Patterns: You Already Know How To Use It](http://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/) “It’s crazy powerful. It’s magical. You already know how to use it.” This was an astonishing claim. Here was a new, market-defining, revolutionary device, unlike anything we had seen before, and we already knew how to use it. And yet, for the most part, the claim was true. How does a company like Apple make such great new things that people already know how to use?
-* [The 8 Worst UX Mistakes Coming From Experts](https://medium.com/@pkkoczorowski/the-8-worst-ux-mistakes-coming-from-experts-692884971f80)
 
 ### Wireframing and Prototyping
 * [Axure](http://www.axure.com/edu) Axure RP is a desktop application that gives business and UX professionals diagramming, documentation, and interactive tools to quickly design and share interactive prototypes and specifications. If you're a student or teacher, submit your request for a free educational license.
@@ -229,7 +226,6 @@ Many of these also have patterns, vectors, etc.
 * [Atom](https://atom.io/) Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file
 * [Brackets](http://brackets.io/) A modern, open source text editor that understands web design
 * [Coda](http://www.panic.com/coda/) (Mac only) You code for the web. You demand a fast, clean, and powerful text editor. Pixel-perfect preview. A built-in way to open and manage your local and remote files. And maybe a dash of SSH. Say hello, Coda.
-* [CodeKit](http://incident57.com/codekit/) CodeKit compiles Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript, TypeScript, Markdown and Compass files automatically each time you save. Easily set options for each language on a file-by-file basis.
 * [Eclipse](http://www.eclipse.org/) Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too
 * [Komodo IDE](http://komodoide.com/) Cross-Platform IDE for all your major languages, including Python, PHP, Go, Perl, Tcl, Ruby, NodeJS, HTML, CSS, JavaScript and more
 * [NetBeans IDE](https://netbeans.org/) Quickly and easily develop desktop, mobile and web applications
@@ -600,11 +596,9 @@ Easier management of regular WordPress posts, custom post types, and pages
 
 * [_s (Underscores)](http://underscores.me/) Underscores comes from the combined experience of building themes for millions of users on WordPress.com, and creating default themes that ship with WordPress and have to work in all environments. This is paired with excellence in theming best practices and just enough functionality, markup, and styles to get started.
 * [Bones](http://themble.com/bones/) An HTML5, Mobile-First starter theme for rapid WordPress development
-* [HTML5 Blank](http://html5blank.com/) The HTML5 WordPress boilerplate theme.
 * [Joints](http://jointswp.com/) JointsWP is a blank WordPress theme built with Foundation, giving you all the power and flexibility you need to build complex, mobile friendly websites without having to start from scratch
 * [Odin WP](http://wpod.in/) Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress
 * [Sage](https://roots.io/sage/) Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, that will help you make better themes
-* [Sprig](http://sprigwp.com/) Build WordPress themes quickly with Twig
 * [WordPlate](https://github.com/wordplate/wordplate) A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
 * [WP-Flex](https://github.com/grayghostvisuals/WP-Flex) A responsive, foundational WordPress theme boilerplate that adheres to best practices and requirements set by the official WordPress Codex and theme review guidelines
 
@@ -645,7 +639,6 @@ Easier management of regular WordPress posts, custom post types, and pages
 * [WP Codex: Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors)
 * [WP Codex: Hardening WordPress](http://codex.wordpress.org/Hardening_WordPress)
 * [Backing up a WordPress Database to Amazon S3](http://ryanfrankel.com/backing-wordpress-database-amazon-s3/)
-* [Example of a WordPress Website Hack Attack](http://html5.litten.com/example-of-a-wordpress-website-hack-attack/)
 * [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 * [WordPress Security: Tackling Backdoors, Pharma Hacks and Redirects](http://premium.wpmudev.org/blog/wordpress-security-tackling-backdoors-pharma-hacks-and-redirects/)
 * [WP Troubleshooting Outline](http://zerro-four.com/wp-troubleshooting-outline/)
@@ -662,7 +655,6 @@ These websites will let you test your HTML, CSS, and JS on the web without havin
 
 ## General
 
-* [Freelancing as a Student](http://clientsfromhell.net/post/150023913613/freelancing-as-a-student) Jennifer Fryer joins Bryce Bladon to share their experiences as student freelancers; they go on to debate why every student should consider freelancing _before_ graduating
 * [Mike Monteiro: Design is a Job (book)](http://abookapart.com/products/design-is-a-job)
 
 ## Communication: Getting (and keeping) Clients
