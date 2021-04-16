@@ -22,7 +22,6 @@
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Get UI Colors](http://getuicolors.com/)
 * [Material UI](http://www.materialui.co/colors)
-* [tintUI](http://tintui.com/index.html)
 * [uiGradients](http://uigradients.com/)
 
 ### Usability
