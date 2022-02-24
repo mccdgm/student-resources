@@ -77,12 +77,11 @@
 
 ##### Patterns & Backgrounds
 
-* [7 Free Places to Find or Generate Seamless Patterns](http://designroast.org/7-free-places-find-generate-seamless-patterns/)
-* [Repper Patterns](http://repperpatterns.com/tool/)
+* [Hero Patterns](https://heropatterns.com/)
+* [Repper Patterns](http://repperpatterns.com/)
 * [Subtle Patterns](http://subtlepatterns.com/)
-* [Textured Gradients](http://rentafounder.com/textured-gradients-in-pure-css/)
 * [Transparent Textures](http://www.transparenttextures.com/)
-* [Unique gradient generator](http://gradient.quasi.ink/)
+* [Bansal CSS Patterns](https://bansal.io/pattern-css)
 
 #### Commercial
 
