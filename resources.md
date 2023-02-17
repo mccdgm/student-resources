@@ -14,7 +14,6 @@
 * [Adobe Color](https://color.adobe.com/)
 * [Colour Lovers](http://www.colourlovers.com/)
 * [Paletton](http://paletton.com/)
-* [Palettable](http://www.palettable.io/)
 * [Pigment](https://pigment.shapefactory.co/)
 
 #### Swatches
@@ -64,7 +63,6 @@
 * [Splitshire](http://www.splitshire.com/)
 * [Startup Stock Photos](http://startupstockphotos.com/)
 * [StockSnap.io](https://stocksnap.io/)
-* [Superfamous](http://images.superfamous.com/)
 * [Unsplash](https://unsplash.com/)
 * [Vintage Stock Photos](http://vintagestockphotos.com/)
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
@@ -99,7 +97,7 @@ Many of these also have patterns, vectors, etc.
 ### Icons
 
 * [12 Incredible Resources for Downloading Icon Packs](https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs)
-* [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+* [FontAwesome](https://fontawesome.com/)
 * [GlyphSearch is your free Icon Search Engine](http://glyphsearch.com/)
 * [ICONSVG.xyz](https://iconsvg.xyz)
 * [The Noun Project](https://thenounproject.com/)
@@ -115,7 +113,6 @@ Many of these also have patterns, vectors, etc.
 * [PSD Covers](http://www.psdcovers.com/)
 * [PSD Repo](http://psdrepo.com/tag/free-psd-mockups/)
 * [shotsnapp](https://app.shotsnapp.com/)
-* [Webresources: 20+ Amazing Free T-Shirt Mockup PSD Templates](https://www.webresourcesfree.com/amizing-free-t-shirt-mockup-psd-templates/)
 
 ### Video
 
@@ -216,7 +213,6 @@ Many of these also have patterns, vectors, etc.
 * [Draw a favicon in-browser](http://www.favicon.cc/)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [Minimal Favicon Generator](https://favicon.io/)
-* [Open Device Labs](https://opendevicelab.com/)
 * [Using White Space For Readability In HTML And CSS](http://www.smashingmagazine.com/2013/02/19/using-white-space-for-readability-in-html-and-css/)
 * [The definitive list of resources & topics you'll need know](http://www.gitlogs.com/resource-guides)
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
@@ -253,24 +249,6 @@ Many of these also have patterns, vectors, etc.
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-
-#### Brackets
-
-* [Beautify](https://github.com/drewhamlett/brackets-beautify)
-* [Brackets-SASS](https://github.com/jasonsanjose/brackets-sass)
-* [Brackets SASS Code Hints](https://github.com/sprintr/brackets-sass-code-hints)
-* [Emmet](https://github.com/emmetio/brackets-emmet)
-* [SASShints](https://github.com/konstantinkobs/brackets-SASShints)
-
-#### Sublime Text
-
-* [ColorPicker](http://weslly.github.io/ColorPicker/)
-* [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
-* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
-* [Package Control](https://packagecontrol.io/)
-* [Spacegray](http://kkga.github.io/spacegray/)
-* [SublimeLinter](http://www.sublimelinter.com/en/latest/)
-* [Trimmer](https://github.com/jonlabelle/Trimmer)
 
 ## CSS
 
@@ -317,8 +295,6 @@ Many of these also have patterns, vectors, etc.
 * [Jeremy Clarke's DRY CSS](http://www.slideshare.net/jeremyclarke/dry-css-a-dontrepeatyourself-methodology-for-creating-efficient-unified-and-scalable-stylesheets)
 * [Jonathan Snook: CSS Workflow from the Ground Up (Video)](https://www.youtube.com/watch?v=ZVk3GQHfkbU)
 * [PatternLab](http://patternlab.io/)
-* [pea.rs](http://pea.rs/)
-* [SMACSS: Scalable and Modular Architecture for CSS](https://smacss.com/book/)
 
 ### Frameworks and Grid Systems
 
@@ -348,9 +324,6 @@ Many of these also have patterns, vectors, etc.
 
 ### Preprocessors and Postprocessors
 
-* [Pleeease Play](http://pleeease.iamvdo.me/play)
-* [PurifyCSS](https://www.reddit.com/r/web_design/comments/3alq1t/purifycss_remove_unused_css/)
-
 #### Preprocessors
 
 * [Clay](http://learnboost.github.io/stylus/)
@@ -363,7 +336,6 @@ Many of these also have patterns, vectors, etc.
 
 #### Sass/SCSS
 
-* [25 Essential Sass and Compass Tools](http://mashable.com/2013/06/11/sass-compass-tools/#iDWcmxN9Q5qx)
 * [A visual guide to Sass & Compass Color Functions](http://jackiebalzer.com/color)
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [Sassmeister](http://sassmeister.com/)
@@ -388,10 +360,6 @@ Many of these also have patterns, vectors, etc.
 * [Using background clip for text with CSS fallback](http://nimbupani.com/using-background-clip-for-text-with-css-fallback.html)
 * [Write SVGs directly in CSS](https://github.com/jonathantneal/postcss-write-svg)
 * [Zurb: Motion UI](http://zurb.com/playground/motion-ui)
-
-### Webfonts
-
-* [Stephy's Webfont Guide](https://mccdgm.github.io/webfont-guide/)
 
 ## HTML
 
@@ -429,7 +397,6 @@ Many of these also have patterns, vectors, etc.
 * [Stack Overflow: tagged "wordpress"](http://stackoverflow.com/questions/tagged/wordpress)
 * [Stack Exchange: WordPress Development](http://wordpress.stackexchange.com/)
 * [WordPress Statistics for the Top 500K Sites](https://hackertarget.com/wordpress-statistics-top-500k/)
-* [HEAD](http://gethead.info)
 
 ### Plugins
 
@@ -437,11 +404,6 @@ Many of these also have patterns, vectors, etc.
 
 * [4 Ways to Evaluate WordPress Plugins before Installing](http://www.dummies.com/how-to/content/4-ways-to-evaluate-wordpress-plugins-before-instal.html)
 * [WP Codex: Managing Plugins](https://codex.wordpress.org/Managing_Plugins)
-
-#### Lists of "_X_ Best WordPress Plugins"
-
-* [6 Top WordPress Backup Plugin Recommendations](http://www.stateofdigital.com/top-6-wordpress-backup-plugin-recommendations-for-2013/)
-* [An In-Depth Look at 4 Major Blog Commenting Systems for WordPress](https://kinsta.com/blog/blog-comment-systems/)
 
 #### Individual Plugin Recommendations
 
@@ -458,8 +420,6 @@ Many of these also have patterns, vectors, etc.
 ##### Development
 
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
-* [CMB2](https://wordpress.org/plugins/cmb2/)
-* [Content Aware Sidebars](https://wordpress.org/plugins/content-aware-sidebars/)
 * [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/)
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/)
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/)
@@ -493,7 +453,6 @@ Many of these also have patterns, vectors, etc.
 
 ##### Forms
 
-* [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/)
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 * [Gravity Forms](http://www.gravityforms.com/)
 * [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/)
@@ -640,7 +599,6 @@ Many of these also have patterns, vectors, etc.
 * [WP Codex: Hardening WordPress](http://codex.wordpress.org/Hardening_WordPress)
 * [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 * [WordPress Security: Tackling Backdoors, Pharma Hacks and Redirects](http://premium.wpmudev.org/blog/wordpress-security-tackling-backdoors-pharma-hacks-and-redirects/)
-* [WP Troubleshooting Outline](http://zerro-four.com/wp-troubleshooting-outline/)
 
 ## Places to Test Code
 
@@ -676,7 +634,7 @@ Many of these also have patterns, vectors, etc.
 ## Legalities
 
 * [How do I politely dissuade a client from using stolen fonts?](https://www.reddit.com/r/graphic_design/comments/2s32d6/how_do_i_politely_dissuade_a_client_from_using/cnm1kpe) tl;dr: people can and do get in trouble for this
-* [Register Your Fictitious or "Doing Business As" (DBA) Name](https://www.sba.gov/content/register-your-fictitious-or-doing-business-dba-name) If you want to accept checks made out to "Cool Design Company" vs. "Your Name" (which looks a lot more professional), this is the easiest way
+* [Register Your Business Name](https://www.sba.gov/business-guide/launch-your-business/register-your-business)
 
 ### Contracts
 
@@ -688,7 +646,6 @@ Many of these also have patterns, vectors, etc.
 
 ### What to charge?
 
-* [Designers’ Hourly Rates: Are You Charging Enough?](http://www.howdesign.com/design-business/pricing/hourly-rates/)
 * [Double Your Freelancing](http://doubleyourfreelancing.com/)
 * [Freelance vs Agency Contract vs Full Time Salary](http://workplace.stackexchange.com/questions/19799/freelance-vs-agency-contract-vs-full-time-salary)
 * [Giving People Options](http://thenuschool.com/what-i-learned-about-pricing-while-being-stuck-in-traffic/)
@@ -711,13 +668,12 @@ Many of these also have patterns, vectors, etc.
 
 * [27 Free Invoicing Tools for Businesses on a Budget](http://mashable.com/2013/09/03/free-invoicing-tools/)
 * [Freshbooks](http://www.freshbooks.com/)
-* [Harvest](https://www.getharvest.com/features/invoicing)
+* [Harvest](https://www.getharvest.com/)
 * [Hiveage](https://www.hiveage.com/)
-* [Wave](https://www.waveapps.com/invoice/)
+* [Wave](https://www.waveapps.com/)
 
 ## Writing Copy
 
-* [41 Resources to Help You Write High-Converting Copy](http://www.funnelenvy.com/blog/2013/10/30/40-resources-to-help-you-write-high-converting-copy/)
 * [7 Simple Copywriting Tweaks That’ll Shoot Your Conversion Rate Up](http://www.quicksprout.com/2013/08/05/7-simple-copywriting-tweaks-thatll-shoot-your-conversion-rate-up/)
 * [Headline Analyzer](http://coschedule.com/headline-analyzer)
 * [How To Write Headlines That Drive Traffic, Shares, and Search Results](http://coschedule.com/blog/how-to-write-the-best-headlines-that-will-increase-traffic/)
